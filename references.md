@@ -21,13 +21,13 @@ At the University of Michigan, I received excellent training from the following 
    University of Michigan    
    [jdinardo@umich.edu](mailto:jdinardo@umich.edu)  
 
-- [Brian Jacob](http://www-personal.umich.edu/~bajacob/)  
+- [Brian Jacob](http://brian-jacob.com)  
    Gerald R. Ford School of Public Policy  
    School of Education  
    University of Michigan  
    [bajacob@umich.edu](mailto:bajacob@umich.edu) 
 
-- [Jeff Smith](http://www-personal.umich.edu/~econjeff/)  
+- [Jeff Smith](https://ssc.wisc.edu/~econjeff/)  
    Department of Economics  
    Gerald R. Ford School of Public Policy  
    University of Michigan  
