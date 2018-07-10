@@ -1,9 +1,12 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
-use-site-title: true
+title: Eric Chyn
+subtitle: Economist
 ---
+
+<p align="justify">
+I am an Assistant Professor of Economics in the Department of Economics at the University of Virginia (UVA) and a Faculty Research Fellow at the Rhode Island Innovative Policy Lab (RIIPL) at Brown University. My primary research fields are labor and public economics. In my recent work, I have studied the effects of government programs on children. I received my PhD in Economics from the University of Michigan in 2016.
+</p>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -22,29 +25,17 @@ use-site-title: true
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
+    <div class="post-entry">
+      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
 
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
-      Tags:
+      Tags: 
       {% if site.link-tags %}
       {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
+      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
       {% endfor %}
       {% else %}
         {{ post.tags | join: ", " }}
