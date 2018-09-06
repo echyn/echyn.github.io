@@ -22,7 +22,7 @@ subtitle:
 - Leveraging Machine Learning for Optimal Policy: Evidence from Reemployment Services (with Zak Campbell and Justine Hastings)
 - How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
 
-## Abstracts and Links to Papers:
+## Selected Abstracts and Links to Papers:
 ---
 
 ### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Labor Market Outcomes of Children  <a id="moved"></a>
