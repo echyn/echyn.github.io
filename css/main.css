@@ -626,3 +626,10 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+:target:before {
+    content: "";
+    display: inline-block;
+    height: 50px;
+    margin: -50px 0 0;
+}
