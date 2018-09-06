@@ -5,14 +5,15 @@ subtitle:
 ---
 
 ## List of Working Papers:
----
+----
 
 - <small> Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Labor Market Outcomes of Children (Accepted at the *American Economic Review*) </small> 
 - <small> Advertising, Reputation and Environmental Stewardship: Evidence from the BP Oil Spill (with Lint Barrage and Justine Hastings) (Revise and Resubmit at the *American Economic Journal: Economic Policy*) </small>
 - <small> Predictors of Successful Housing Voucher Lease-Up and Implications for Estimated Labor Market Responses (with Josh Hyman and Max Kapustin) (Revise and Resubmit at the *Journal of Policy Analysis and Management*) </small>
  
 
-## Research in Progress: 
+## Research in Progress:
+----
 
 - <small> Pay Me Later: The Impact of a Simple Employer-based Savings Scheme (with Lasse Brune and Jason Kerwin) </small>
 - <small> Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin) </small>
