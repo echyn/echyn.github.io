@@ -7,20 +7,31 @@ subtitle:
 ## Peer Reviewed Publications
 ----
 
-- Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Labor Market Outcomes of Children (Forthcoming at the *American Economic Review*)
-- Predictors of Successful Housing Voucher Lease-Up and Implications for Estimated Labor Market Responses (with Josh Hyman and Max Kapustin) (Forthcoming at the *Journal of Policy Analysis and Management*)
+1. Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Labor Market Outcomes of Children (Forthcoming at the *American Economic Review*)
+
+2. Predictors of Successful Housing Voucher Lease-Up and Implications for Estimated Labor Market Responses (with Josh Hyman and Max Kapustin) (Forthcoming at the *Journal of Policy Analysis and Management*)
  
 
 ## Working Papers
 ----
 
-- Advertising, Reputation and Environmental Stewardship: Evidence from the BP Oil Spill (with Lint Barrage and Justine Hastings) (Revise and Resubmit at the *American Economic Journal: Economic Policy*)
-- Pay Me Later: The Impact of a Simple Employer-based Savings Scheme (with Lasse Brune and Jason Kerwin)
-- Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin)
-- The Impact of Paid Sick Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
-- The Impact of Paid Maternity Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
-- Leveraging Machine Learning for Optimal Policy: Evidence from Reemployment Services (with Zak Campbell and Justine Hastings)
-- How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+1. Advertising, Reputation and Environmental Stewardship: Evidence from the BP Oil Spill (with Lint Barrage and Justine Hastings) (Revise and Resubmit at the *American Economic Journal: Economic Policy*)
+
+2. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition
+
+3. Pay Me Later: The Impact of a Simple Employer-based Savings Scheme (with Lasse Brune and Jason Kerwin)
+
+4. Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin)
+
+5. The Impact of Paid Maternity Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
+
+6. The Impact of Paid Sick Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
+
+7. The Causal Impact of Removing Children from Abusive and Neglectful Homes (with Anthony Bald, Justine Hastings and Margarita Machelett)
+
+8. Leveraging Machine Learning for Optimal Policy: Evidence from Reemployment Services (with Zak Campbell and Justine Hastings)
+
+9. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
 
 ## Selected Abstracts and Links to Papers:
 ---
