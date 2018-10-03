@@ -4,12 +4,12 @@ title: Research
 subtitle: 
 ---
 
-## Peer Reviewed Publications
+## Peer Reviewed Publications (Including Accepted)
 ----
 
 1. Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Labor Market Outcomes of Children. **American Economic Review**, 108(10): 3028-3056. October 2018.
 
-2. Predictors of Successful Housing Voucher Lease-Up and Implications for Estimated Labor Market Responses (with Josh Hyman and Max Kapustin) (Forthcoming at the *Journal of Policy Analysis and Management*)
+2. Predictors of Successful Housing Voucher Lease-Up and Implications for Estimated Labor Market Responses (with Josh Hyman and Max Kapustin) (Accepted at the *Journal of Policy Analysis and Management*)
  
 
 ## Working Papers
