@@ -7,7 +7,7 @@ subtitle:
 ## Peer Reviewed Publications (Including Accepted)
 ----
 
-1. Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children. **American Economic Review**, 108(10): 3028-3056. October 2018.
+1. Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children. **American Economic Review**. October 2018.
 
 2. Predictors of Successful Housing Voucher Lease-Up and Implications for Estimated Labor Market Responses (with Josh Hyman and Max Kapustin) (Accepted at the *Journal of Policy Analysis and Management*)
  
@@ -36,9 +36,9 @@ subtitle:
 ## Selected Abstracts and Links to Papers:
 ---
 
-### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Labor Market Outcomes of Children  <a id="moved"></a>
+### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children  <a id="moved"></a>
 
-Accepted at the *American Economic Review*
+**American Economic Review**. October 2018.
 
 #### Awards:
 
@@ -46,7 +46,7 @@ Accepted at the *American Economic Review*
 - 2017 Dissertation Prize by the Human Capital and Economic Opportunity (HCEO) Global Working Group 
 - 2015 Parker Prize by the Department of Economics at University of Michigan
 
-Press Coverage: [New York Times](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html), [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html), [The Atlantic: Citylab](http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/), [The American Prospect](http://prospect.org/article/when-poor-move-do-they-move), [Slate](http://www.slate.com/blogs/xx_factor/2016/04/08/getting_poor_kids_out_of_poor_neighborhoods_helps_even_more_than_we_thought.html), [Mother Jones](http://www.motherjones.com/kevin-drum/2016/03/moving-kids-out-bad-neighborhoods-big-deal), [Spotlight on Poverty and Opportunity](http://spotlightonpoverty.org/spotlight-exclusives/big-benefits-moving-better-neighborhood/)
+Press Coverage: [New York Times](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html), [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html), [The Atlantic: Citylab](http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/), [The American Prospect](http://prospect.org/article/when-poor-move-do-they-move), [Slate](http://www.slate.com/blogs/xx_factor/2016/04/08/getting_poor_kids_out_of_poor_neighborhoods_helps_even_more_than_we_thought.html), [Mother Jones](http://www.motherjones.com/kevin-drum/2016/03/moving-kids-out-bad-neighborhoods-big-deal), [Spotlight on Poverty and Opportunity](http://spotlightonpoverty.org/spotlight-exclusives/big-benefits-moving-better-neighborhood/), [AEA Research Highlights](https://www.aeaweb.org/research/public-housing-demolition-forced-relocation-impact-employment-earnings)
 
 <p align="justify">
 
