@@ -67,7 +67,7 @@ Notes: This figure displays estimated treatment effects on adulthood earnings fo
 
 <p align="center">
 <a href="http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf" target="_top">2016 Version (with Appendix)</a> /    
-<a href="http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity_NoAppendix.pdf" target="_top">2016Version (No Appendix)</a> / 
+<a href="http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity_NoAppendix.pdf" target="_top">2016 Version (No Appendix)</a> / 
 <a href="http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity_Slides.pdf" target="_top">Presentation Slides</a> /
 <a href="http://www.ericchyn.com/files/Appendix_Chyn_Moved_to_Opportunity.pdf" target="_top">2016 Appendix Materials Only</a>
 </p>
