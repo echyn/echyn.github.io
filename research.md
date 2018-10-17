@@ -9,7 +9,7 @@ subtitle:
 
 1. Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children. **American Economic Review**. October 2018.
 
-2. Predictors of Successful Housing Voucher Lease-Up and Implications for Estimated Labor Market Responses (with Josh Hyman and Max Kapustin) (Accepted at the *Journal of Policy Analysis and Management*)
+2. Housing Voucher Take-Up and Labor Market Impacts (with Josh Hyman and Max Kapustin) (Accepted at the *Journal of Policy Analysis and Management*)
  
 
 ## Working Papers
