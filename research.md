@@ -34,9 +34,10 @@ subtitle:
 9. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
 
 ## Selected Abstracts and Links to Papers:
----
 
 <a name="moved"></a>
+
+---
 
 ### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children 
 
