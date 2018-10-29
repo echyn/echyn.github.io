@@ -33,9 +33,9 @@ subtitle:
 
 9. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
 
-## Selected Abstracts and Links to Papers:
-
 <a name="moved"></a>
+
+## Selected Abstracts and Links to Papers:
 
 ---
 
