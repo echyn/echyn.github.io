@@ -36,7 +36,9 @@ subtitle:
 ## Selected Abstracts and Links to Papers:
 ---
 
-### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children  <a name="moved"></a>
+<a name="moved"></a>
+
+### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children 
 
 **American Economic Review**. October 2018.
 
