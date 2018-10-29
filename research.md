@@ -7,7 +7,7 @@ subtitle:
 ## Peer Reviewed Publications (Including Accepted)
 ----
 
-1. Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children. **American Economic Review**. October 2018.
+1. [Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children](#moved). **American Economic Review**. October 2018.
 
 2. Housing Voucher Take-Up and Labor Market Impacts (with Josh Hyman and Max Kapustin) (Accepted at the *Journal of Policy Analysis and Management*)
  
@@ -36,7 +36,7 @@ subtitle:
 ## Selected Abstracts and Links to Papers:
 ---
 
-### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children  <a id="moved"></a>
+### Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children  <a name="moved"></a>
 
 **American Economic Review**. October 2018.
 
