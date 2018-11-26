@@ -79,6 +79,8 @@ Notes: This figure displays estimated treatment effects on adulthood earnings fo
 
 Revise and Resubmit at the *American Economic Journal: Economic Policy*
 
+Press Coverage: [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill)
+
 <p align="justify">
 
 <b>Abstract:</b> This paper explores the impact of advertising on the consumer response to news about unobserved product quality. Specifically, we estimate how British Petroleum’s (BP) 2000-2008 “Beyond Petroleum” advertising campaign affected the impact of the 2010 BP oil spill. We find that BP station margins declined by 4.2 cents per gallon, and volumes declined by 3.6 percent after the spill. However, consumer exposure to pre-spill advertising significantly dampened the price response in the short-run and reduced the fraction of BP stations switching brand affiliation in the long-run. Our results suggest that advertising provides insurance against adverse events. We discuss implications for private provision of environmental stewardship.
