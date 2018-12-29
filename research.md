@@ -63,8 +63,6 @@ subtitle:
 
 5. The Impact of Paid Sick Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
 
-6. The Causal Impact of Removing Children from Abusive and Neglectful Homes (with Anthony Bald, Justine Hastings and Margarita Machelett)
+6. The Social Value of Targeting Interventions: Evidence from Reemployment Services (with Susan Athey, Zak Campbell, Justine Hastings and Preston White)
 
-7. The Social Value of Targeting Interventions: Evidence from Reemployment Services (with Susan Athey, Zak Campbell, Justine Hastings and Preston White)
-
-8. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+7. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
