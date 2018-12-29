@@ -3,6 +3,8 @@
 /* --- General --- */
 
 /* --- NOTE FONT IN "BODY" CONTROLS MAIN PAGE FONTS --- */
+/* --- NOTE MARGIN IN THE "P" SECTION SEEMS TO CONTROL SPACING --- */
+
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
