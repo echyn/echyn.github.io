@@ -2,9 +2,11 @@
 
 /* --- General --- */
 
+/* --- NOTE FONT IN "BODY" CONTROLS MAIN PAGE FONTS --- */
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 25px;
+  font-size: 16px;
   color: #404040;
   position: relative;
   background: #FFF;
