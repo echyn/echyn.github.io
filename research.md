@@ -10,9 +10,7 @@ subtitle:
 1. [Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Children](https://www.aeaweb.org/articles?id=10.1257/aer.20161352). **American Economic Review**. October 2018.
 
    <details><summary>Abstract (+) </summary><br>
-   <p align="justify">  
-   This paper provides new evidence on the effects of moving out of disadvantaged neighborhoods on the long-run outcomes of children. I study public housing demolitions in Chicago, which forced low-income households to relocate to less disadvantaged neighborhoods using housing vouchers. Specifically, I compare young adult outcomes of displaced children to their peers who lived in nearby public housing that was not demolished. Displaced children are more likely to be employed and earn more in young adulthood. I also find that displaced children have fewer violent crime arrests. Children displaced at young ages have lower high school dropout rates.<br>  
-   </p>   
+   <p align="justify"> This paper provides new evidence on the effects of moving out of disadvantaged neighborhoods on the long-run outcomes of children. I study public housing demolitions in Chicago, which forced low-income households to relocate to less disadvantaged neighborhoods using housing vouchers. Specifically, I compare young adult outcomes of displaced children to their peers who lived in nearby public housing that was not demolished. Displaced children are more likely to be employed and earn more in young adulthood. I also find that displaced children have fewer violent crime arrests. Children displaced at young ages have lower high school dropout rates.<br></p>   
    </details>
    
    <details><summary>Awards (+) </summary><br>
@@ -25,7 +23,7 @@ subtitle:
   
    **Press Coverage:** [New York Times](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html), [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html), [The Atlantic: Citylab](http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/), [The American Prospect](http://prospect.org/article/when-poor-move-do-they-move), [Slate](http://www.slate.com/blogs/xx_factor/2016/04/08/getting_poor_kids_out_of_poor_neighborhoods_helps_even_more_than_we_thought.html), [Mother Jones](http://www.motherjones.com/kevin-drum/2016/03/moving-kids-out-bad-neighborhoods-big-deal), [Spotlight on Poverty and Opportunity](http://spotlightonpoverty.org/spotlight-exclusives/big-benefits-moving-better-neighborhood/), [AEA Research Highlights](https://www.aeaweb.org/research/public-housing-demolition-forced-relocation-impact-employment-earnings)
 
-2. Housing Voucher Take-Up and Labor Market Impacts (with Josh Hyman and Max Kapustin) (Accepted at the *Journal of Policy Analysis and Management*)
+2. Housing Voucher Take-Up and Labor Market Impacts (with Josh Hyman and Max Kapustin) **Journal of Policy Analysis and Management**. Winter 2019.
  
 
 ## Working Papers
