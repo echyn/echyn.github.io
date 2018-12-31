@@ -44,11 +44,16 @@ subtitle:
    <p align="justify"> This paper explores the impact of advertising on the consumer response to news about unobserved product quality. Specifically, we estimate how British Petroleum’s (BP) 2000-2008 “Beyond Petroleum” advertising campaign affected the impact of the 2010 BP oil spill. We find that BP station margins declined by 4.2 cents per gallon, and volumes declined by 3.6 percent after the spill. However, consumer exposure to pre-spill advertising significantly dampened the price response in the short-run and reduced the fraction of BP stations switching brand affiliation in the long-run. Our results suggest that advertising provides insurance against adverse events. We discuss implications for private provision of environmental stewardship.<br></p> </blockquote>   
    </details>
 
-
-
    **Press Coverage:** [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill)
 
 2. The Causal Impact of Removing Children from Abusive and Neglectful Homes (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> 
+   This paper uses administrative data to measure causal impacts of removing children from families investigated for abuse or neglect. We use the removal tendency of quasi-experimentally assigned child protective service investigators as an instrument for whether authorities removed and placed children into foster care. Our main analysis estimates impacts on educational outcomes by gender and age at the time of an investigation. We find that removal significantly increases standardized test scores for young girls. There are no detectable impacts on the test scores of girls removed at older ages or boys of any age. For older children, we also find few significant impacts of removal on the likelihood of having a juvenile conviction, graduating from high school, enrolling in a postsecondary institution, or having a teenage birth. We investigate potential mechanisms driving heterogeneous impacts by gender and age. Our results do not appear to be driven by heterogeneous effects on foster care placement, school mobility and quality, or participation in special education programs. For girls, we find that removal significantly increases the likelihood of post-investigation criminal charges or incarceration for parents and caretakers who are the perpetrators of abuse or neglect.
+   <br></p> </blockquote>   
+   </details>
 
 ## Work in Progress
 ----
