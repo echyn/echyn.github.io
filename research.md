@@ -46,7 +46,7 @@ subtitle:
 
    **Press Coverage:** [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill)
 
-2. The Causal Impact of Removing Children from Abusive and Neglectful Homes (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
+2. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
