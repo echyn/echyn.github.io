@@ -4,7 +4,7 @@ title: Research
 subtitle: 
 ---
 
-## Peer Reviewed Publications
+## Peer Reviewed Publications (Including Accepted/Forthcoming)
 ----
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](https://www.aeaweb.org/articles?id=10.1257/aer.20161352). **American Economic Review**. October 2018.
@@ -32,21 +32,21 @@ subtitle:
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Low participation rates in government assistance programs are a major policy concern in the United States. This paper studies take‐up of Section 8 housing vouchers, a program in which take‐up rates are quite low among interested and eligible households. We link 18,109 households in Chicago that were offered vouchers through a lottery to administrative data and study how baseline employment, earnings, public assistance, arrests, residential location, and children's academic performance predict take‐up. Our analysis finds mixed evidence of whether the most disadvantaged or distressed households face the largest barriers to program participation. We also study the causal impact of peer behavior on take‐up by exploiting idiosyncratic variation in the timing of voucher offers. We find that the probability of lease‐up increases with the number of neighbors who recently received voucher offers. Finally, we explore the policy implications of increasing housing voucher take‐up by applying reweighting methods to existing causal impact estimates of voucher receipt. This analysis suggests that greater utilization of vouchers may lead to larger reductions in labor market activity. Differences in take‐up rates across settings may be important to consider when assessing the external validity of studies identifying the effects of public assistance programs.<br></p> </blockquote>   
    </details>
-
-## Working Papers
-----
-
-1. [Advertising, Reputation and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.nber.org/papers/w19838) (with Lint Barrage and Justine Hastings). NBER Working Paper #19838 (Revise and Resubmit at the *American Economic Journal: Economic Policy*)
+   
+3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.nber.org/papers/w19838) (with Lint Barrage and Justine Hastings). NBER Working Paper #19838 (Accepted at the *American Economic Journal: Economic Policy*)
 
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="justify"> This paper explores the impact of advertising on the consumer response to news about unobserved product quality. Specifically, we estimate how British Petroleum’s (BP) 2000-2008 “Beyond Petroleum” advertising campaign affected the impact of the 2010 BP oil spill. We find that BP station margins declined by 4.2 cents per gallon, and volumes declined by 3.6 percent after the spill. However, consumer exposure to pre-spill advertising significantly dampened the price response in the short-run and reduced the fraction of BP stations switching brand affiliation in the long-run. Our results suggest that advertising provides insurance against adverse events. We discuss implications for private provision of environmental stewardship.<br></p> </blockquote>   
+   <p align="justify"> This paper explores whether private markets can incentivize environmental stewardship. We examine the consumer response to the 2010 BP oil spill and test how BP's investment in the 2000-2008 "Beyond Petroleum" green advertising campaign affected this response. We find evidence consistent with consumer punishment: BP station margins and volumes declined by 2.9 cents per gallon and 4.2 percent, respectively, in the month after the spill. However, pre-spill advertising significantly dampened the price response, and may have reduced brand switching by BP stations. These results indicate that firms may have incentives to engage in green advertising without investments in environmental stewardship.<br></p> </blockquote>   
    </details>
 
    **Press Coverage:** [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill)
 
-2. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
+## Working Papers
+----
+
+1. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
