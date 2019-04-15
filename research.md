@@ -54,6 +54,15 @@ subtitle:
    This paper uses administrative data to measure causal impacts of removing children from families investigated for abuse or neglect. We use the removal tendency of quasi-experimentally assigned child protective service investigators as an instrument for whether authorities removed and placed children into foster care. Our main analysis estimates impacts on educational outcomes by gender and age at the time of an investigation. We find that removal significantly increases standardized test scores for young girls. There are no detectable impacts on the test scores of girls removed at older ages or boys of any age. For older children, we also find few significant impacts of removal on the likelihood of having a juvenile conviction, graduating from high school, enrolling in a postsecondary institution, or having a teenage birth. We investigate potential mechanisms driving heterogeneous impacts by gender and age. Our results do not appear to be driven by heterogeneous effects on foster care placement, school mobility and quality, or participation in special education programs. For girls, we find that removal significantly increases the likelihood of post-investigation criminal charges or incarceration for parents and caretakers who are the perpetrators of abuse or neglect.
    <br></p> </blockquote>   
    </details>
+   
+2. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.nber.org/papers/w25753) (with Samantha Gold and Justine Hastings). NBER Working Paper #25753.
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> 
+   We use comprehensive administrative data from Rhode Island to measure the impact of early-life interventions for low birth weight newborns on later-life outcomes. We use a regression discontinuity design based on the 1,500-gram threshold for Very Low Birth Weight (VLBW) status. We show that threshold crossing causes more intense in-hospital care, in line with prior studies. Threshold crossing also causes a 0.34 standard deviation increase in test scores in elementary and middle school, a 17.1 percentage point increase in the probability of college enrollment, and a $66,997 decrease in social program expenditures by age 14. We explore potential mechanisms driving impacts.
+   <br></p> </blockquote>   
+   </details>
 
 ## Work in Progress
 ----
