@@ -63,6 +63,8 @@ subtitle:
    We use comprehensive administrative data from Rhode Island to measure the impact of early-life interventions for low birth weight newborns on later-life outcomes. We use a regression discontinuity design based on the 1,500-gram threshold for Very Low Birth Weight (VLBW) status. We show that threshold crossing causes more intense in-hospital care, in line with prior studies. Threshold crossing also causes a 0.34 standard deviation increase in test scores in elementary and middle school, a 17.1 percentage point increase in the probability of college enrollment, and a $66,997 decrease in social program expenditures by age 14. We explore potential mechanisms driving impacts.
    <br></p> </blockquote>   
    </details>
+   
+   **Press Coverage:** [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
 
 ## Work in Progress
 ----
