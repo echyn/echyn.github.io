@@ -4,10 +4,12 @@ title: Media
 subtitle: 
 ---
 
-## Lecture Videos
+## Podcasts and Videos
 ---
 
-HCEO Dissertation Prize Lecture at the University of Chicago (October 2017)
+[Probable Causation Podcast on Moved to Opportunity and Neighborhood Effects Research (April 2019)](https://www.probablecausation.com/podcasts/episode-2-eric-chyn)
+
+[HCEO Dissertation Prize Lecture at the University of Chicago (October 2017)](https://www.youtube.com/watch?v=opF3oXzezjU&t=8s)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/opF3oXzezjU/mqdefault.jpg)](https://www.youtube.com/watch?v=opF3oXzezjU&t=8s)
 
