@@ -33,7 +33,7 @@ subtitle:
    <blockquote> <p align="justify"> Low participation rates in government assistance programs are a major policy concern in the United States. This paper studies take‐up of Section 8 housing vouchers, a program in which take‐up rates are quite low among interested and eligible households. We link 18,109 households in Chicago that were offered vouchers through a lottery to administrative data and study how baseline employment, earnings, public assistance, arrests, residential location, and children's academic performance predict take‐up. Our analysis finds mixed evidence of whether the most disadvantaged or distressed households face the largest barriers to program participation. We also study the causal impact of peer behavior on take‐up by exploiting idiosyncratic variation in the timing of voucher offers. We find that the probability of lease‐up increases with the number of neighbors who recently received voucher offers. Finally, we explore the policy implications of increasing housing voucher take‐up by applying reweighting methods to existing causal impact estimates of voucher receipt. This analysis suggests that greater utilization of vouchers may lead to larger reductions in labor market activity. Differences in take‐up rates across settings may be important to consider when assessing the external validity of studies identifying the effects of public assistance programs.<br></p> </blockquote>   
    </details>
    
-3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.nber.org/papers/w19838) (with Lint Barrage and Justine Hastings). Accepted at the **American Economic Journal: Economic Policy**. Available as NBER Working Paper #19838. 
+3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.nber.org/papers/w19838) (with Lint Barrage and Justine Hastings). Forthcoming at the **American Economic Journal: Economic Policy**. Available as NBER Working Paper #19838. 
 
    <details><summary> Abstract (+) </summary>
    
@@ -51,7 +51,7 @@ subtitle:
    <details><summary> Abstract (+) </summary>
    <blockquote>
    <p align="justify"> 
-   This paper uses administrative data to measure causal impacts of removing children from families investigated for abuse or neglect. We use the removal tendency of quasi-experimentally assigned child protective service investigators as an instrument for whether authorities removed and placed children into foster care. Our main analysis estimates impacts on educational outcomes by gender and age at the time of an investigation. We find that removal significantly increases standardized test scores for young girls. There are no detectable impacts on the test scores of girls removed at older ages or boys of any age. For older children, we also find few significant impacts of removal on the likelihood of having a juvenile conviction, graduating from high school, enrolling in a postsecondary institution, or having a teenage birth. We investigate potential mechanisms driving heterogeneous impacts by gender and age. Our results do not appear to be driven by heterogeneous effects on foster care placement, school mobility and quality, or participation in special education programs. For girls, we find that removal significantly increases the likelihood of post-investigation criminal charges or incarceration for parents and caretakers who are the perpetrators of abuse or neglect.
+   This paper measures impacts of removing children from families investigated for abuse or neglect. We use removal tendencies of child protection investigators as an instrument. We focus on young children investigated before age 6 and find that removal significantly increases test scores and reduces grade repetition for girls. There are no detectable impacts for boys. This pattern of results does not appear to be driven by heterogeneity in pre-removal characteristics, foster placements, or the type of schools attended after removal. The results are consistent with the hypothesis that development of abused and neglected girls is more responsive to home removal.
    <br></p> </blockquote>   
    </details>
    
@@ -65,6 +65,8 @@ subtitle:
    </details>
    
    **Press Coverage:** [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
+   
+3. Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin) (Revise and Resubmit at the Journal of Human Resources).
 
 ## Work in Progress
 ----
@@ -73,12 +75,10 @@ subtitle:
 
 2. Pay Me Later: The Impact of a Simple Employer-based Savings Scheme (with Lasse Brune and Jason Kerwin)
 
-3. Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin)
+3. The Impact of Paid Maternity Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
 
-4. The Impact of Paid Maternity Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
+4. The Impact of Paid Sick Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
 
-5. The Impact of Paid Sick Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
+5. The Social Value of Targeting Interventions: Evidence from Reemployment Services (with Susan Athey, Zak Campbell, Justine Hastings and Preston White)
 
-6. The Social Value of Targeting Interventions: Evidence from Reemployment Services (with Susan Athey, Zak Campbell, Justine Hastings and Preston White)
-
-7. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+6. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
