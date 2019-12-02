@@ -68,7 +68,7 @@ subtitle:
    
 3. Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin) (Revise and Resubmit at the Journal of Human Resources).
 
-4. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag) NBER Working Paper #26515. [Ungated version](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf)
+4. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag) NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
