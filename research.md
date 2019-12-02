@@ -68,6 +68,15 @@ subtitle:
    
 3. Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin) (Revise and Resubmit at the Journal of Human Resources).
 
+4. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag) NBER Working Paper #26515. [Ungated version](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf)
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> 
+   How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.
+   <br></p> </blockquote>   
+   </details>
+
 ## Work in Progress
 ----
 
