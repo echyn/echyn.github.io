@@ -41,7 +41,7 @@ subtitle:
    <p align="justify"> This paper explores whether private markets can incentivize environmental stewardship. We examine the consumer response to the 2010 BP oil spill and test how BP's investment in the 2000-2008 "Beyond Petroleum" green advertising campaign affected this response. We find evidence consistent with consumer punishment: BP station margins and volumes declined by 2.9 cents per gallon and 4.2 percent, respectively, in the month after the spill. However, pre-spill advertising significantly dampened the price response, and may have reduced brand switching by BP stations. These results indicate that firms may have incentives to engage in green advertising without investments in environmental stewardship.<br></p> </blockquote>   
    </details>
 
-   **Press Coverage:** [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill) [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
+   **Press Coverage:** [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
 
 ## Working Papers
 ----
