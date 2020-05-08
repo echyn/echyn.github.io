@@ -43,7 +43,13 @@ subtitle:
 
    **Press Coverage:** [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
    
-4. Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi (with Lasse Brune and Jason Kerwin) (Accepted at the **Journal of Human Resources**).
+4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Accepted at the **Journal of Human Resources**).
+
+  <details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="justify"> This paper studies workplace peer effects by randomly varying work assignments at a tea estate in Malawi. We find that increasing mean peer ability by 10 percent raises productivity by 0.3 percent. This effect is driven by the responses of women. Neither production nor compensation externalities cause the effect because workers receive piece rates and do not work in teams. Additional analyses provide no support for learning or socialization as mechanisms. Instead, peer effects appear to operate through "motivation": given the choice to be reassigned, most workers prefer working near high-ability co-workers because these peers motivate them to work harder.<br></p> </blockquote>   
+   </details>
 
 ## Working Papers
 ----
