@@ -101,7 +101,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-   **Press Coverage:** [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
+   *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
 
 ## Work in Progress
 ----
