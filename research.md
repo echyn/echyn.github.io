@@ -23,9 +23,9 @@ subtitle:
    </ul>
    </details>   
   
-   **Press Coverage:** [New York Times](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html), [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html), [The Atlantic: Citylab](http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/), [The American Prospect](http://prospect.org/article/when-poor-move-do-they-move), [Slate](http://www.slate.com/blogs/xx_factor/2016/04/08/getting_poor_kids_out_of_poor_neighborhoods_helps_even_more_than_we_thought.html), [Mother Jones](http://www.motherjones.com/kevin-drum/2016/03/moving-kids-out-bad-neighborhoods-big-deal), [Spotlight on Poverty and Opportunity](http://spotlightonpoverty.org/spotlight-exclusives/big-benefits-moving-better-neighborhood/), [AEA Research Highlights](https://www.aeaweb.org/research/public-housing-demolition-forced-relocation-impact-employment-earnings)
+   *Press Coverage:* [New York Times](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html), [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html), [The Atlantic: Citylab](http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/), [The American Prospect](http://prospect.org/article/when-poor-move-do-they-move), [Slate](http://www.slate.com/blogs/xx_factor/2016/04/08/getting_poor_kids_out_of_poor_neighborhoods_helps_even_more_than_we_thought.html), [Mother Jones](http://www.motherjones.com/kevin-drum/2016/03/moving-kids-out-bad-neighborhoods-big-deal), [Spotlight on Poverty and Opportunity](http://spotlightonpoverty.org/spotlight-exclusives/big-benefits-moving-better-neighborhood/), [AEA Research Highlights](https://www.aeaweb.org/research/public-housing-demolition-forced-relocation-impact-employment-earnings)
    
-   **Previous Version:** [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
+   *Previous Version:* [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
 
 2. [Housing Voucher Take-Up and Labor Market Impacts](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104) (with Josh Hyman and Max Kapustin) **Journal of Policy Analysis and Management**. Winter 2019.
 
@@ -41,7 +41,7 @@ subtitle:
    <p align="justify"> This paper explores whether private markets can incentivize environmental stewardship. We examine the consumer response to the 2010 BP oil spill and test how BP's investment in the 2000-2008 "Beyond Petroleum" green advertising campaign affected this response. We find evidence consistent with consumer punishment: BP station margins and volumes declined by 2.9 cents per gallon and 4.2 percent, respectively, in the month after the spill. However, pre-spill advertising significantly dampened the price response, and may have reduced brand switching by BP stations. These results indicate that firms may have incentives to engage in green advertising without investments in environmental stewardship.<br></p> </blockquote>   
    </details>
 
-   **Press Coverage:** [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
+   *Press Coverage:* [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
    
 4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Accepted at the **Journal of Human Resources**).
 
@@ -81,7 +81,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-   **Press Coverage:** [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
+   *Press Coverage:* [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
 
 4. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf)
 
