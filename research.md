@@ -54,7 +54,7 @@ subtitle:
 ## Working Papers
 ----
 
-1. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Revise and Resubmit at **American Economic Review**).
+5. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Revise and Resubmit at **American Economic Review**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -63,7 +63,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-2. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
+6. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -72,7 +72,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-3. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.nber.org/papers/w25753) (with Samantha Gold and Justine Hastings). NBER Working Paper #25753.
+7. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.nber.org/papers/w25753) (with Samantha Gold and Justine Hastings). NBER Working Paper #25753.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -83,7 +83,7 @@ subtitle:
    
    *Press Coverage:* [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
 
-4. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf)
+8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -92,7 +92,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-5. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.nber.org/papers/w27302) (with Stephen Billings and Kareem Haggag). NBER Working Paper #27302. [Ungated Link to PDF.](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf)
+9. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.nber.org/papers/w27302) (with Stephen Billings and Kareem Haggag). NBER Working Paper #27302. [Ungated Link to PDF.](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf) 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -103,15 +103,9 @@ subtitle:
    
    *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
 
-## Work in Progress
+## Selected Work in Progress
 ----
 
 1. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
 
-2. The Impact of Paid Maternity Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
-
-3. The Impact of Paid Sick Leave: Evidence from Temporary Disability Insurance in Rhode Island (with Zak Campbell and Justine Hastings)
-
-4. The Social Value of Targeting Interventions: Evidence from Reemployment Services (with Susan Athey, Zak Campbell, Justine Hastings and Preston White)
-
-5. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+2. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
