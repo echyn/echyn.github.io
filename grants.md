@@ -4,21 +4,9 @@ title: Grants
 subtitle: 
 ---
 
-# External Grants
+# External Grants (Selected List)
 
-1. "The Impact of Paid Maternity Leave"
-   
-   The Russell Sage Foundation<br>
-   Principal Investigators: Eric Chyn and Justine Hastings.<br>
-   Project Duration: 2017
-   
-2. "The Impact of Paid Maternity Leave"
-
-   The Washington Center for Equitable Growth.<br>
-   Principal Investigators: Eric Chyn and Justine Hastings.<br>
-   Project Duration: 2017
-
-3. "Deferring Wages and Labor Supply in Malawi" ($344,000)
+1. "Deferring Wages and Labor Supply in Malawi" ($344,000)
   
    Innovations for Poverty Action (IPA). Financial Inclusion Program.<br> 
    Sponsored by the Bill and Melinda Gates Foundation.<br>
@@ -26,6 +14,27 @@ subtitle:
    Project Duration: 2016-2017
 
    [IPA Project Full Description](https://www.poverty-action.org/study/deferring-wages-and-labor-supply-malawi)
+   
+2. "The Impact of Paid Maternity Leave"
+   
+   The Russell Sage Foundation<br>
+   Principal Investigators: Eric Chyn and Justine Hastings.<br>
+   Project Duration: 2017
+   
+3. "The Impact of Paid Maternity Leave"
+
+   The Washington Center for Equitable Growth.<br>
+   Principal Investigators: Eric Chyn and Justine Hastings.<br>
+   Project Duration: 2017
+   
+4. "The Long-run and Multi-generational Effects of Housing and Neighborhood Interventions" ($394,366)
+
+   National Science Foundation..<br>
+   Principal Investigators: Eric Chyn and Robert Collinson.<br>
+   Project Duration: 2020-2023
+   
+   [NSF Award No. 2018266](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018266)
+   
 
 # Internal Grants
 
