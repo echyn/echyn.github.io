@@ -63,7 +63,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-6. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419.
+6. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Revised and Resubmitted to the **Journal of Political Economy**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -72,7 +72,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-7. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.nber.org/papers/w25753) (with Samantha Gold and Justine Hastings). NBER Working Paper #25753.
+7. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.nber.org/papers/w25753) (with Samantha Gold and Justine Hastings). NBER Working Paper #25753. (Revised and Resubmitted to the **Journal of Health Economics**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -92,7 +92,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-9. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.nber.org/papers/w27302) (with Stephen Billings and Kareem Haggag). NBER Working Paper #27302. [Ungated Link to PDF.](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf) 
+9. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.nber.org/papers/w27302) (with Stephen Billings and Kareem Haggag). NBER Working Paper #27302. [Ungated Link to PDF.](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf) (Conditionally Accepted at **American Economic Review: Insights**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
