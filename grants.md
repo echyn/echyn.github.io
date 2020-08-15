@@ -29,7 +29,7 @@ subtitle:
    
 4. "The Long-run and Multi-generational Effects of Housing and Neighborhood Interventions" ($394,366)
 
-   National Science Foundation..<br>
+   National Science Foundation.<br>
    Principal Investigators: Eric Chyn and Robert Collinson.<br>
    Project Duration: 2020-2023
    
