@@ -43,7 +43,7 @@ subtitle:
 
    *Press Coverage:* [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
    
-4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Accepted at the **Journal of Human Resources**).
+4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Forthcoming at the **Journal of Human Resources**).
 
    <details><summary> Abstract (+) </summary>
    
