@@ -7,7 +7,7 @@ subtitle:
 ## Peer Reviewed Publications (Including Accepted)
 ----
 
-1\. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](https://www.aeaweb.org/articles?id=10.1257/aer.20161352). **American Economic Review**. October 2018.
+1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](https://www.aeaweb.org/articles?id=10.1257/aer.20161352). **American Economic Review**. October 2018.
 
    <details><summary> Abstract (+) </summary>
    
@@ -27,13 +27,13 @@ subtitle:
    
    *Previous Version:* [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
 
-2\. [Housing Voucher Take-Up and Labor Market Impacts](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104) (with Josh Hyman and Max Kapustin) **Journal of Policy Analysis and Management**. Winter 2019.
+2. [Housing Voucher Take-Up and Labor Market Impacts](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104) (with Josh Hyman and Max Kapustin) **Journal of Policy Analysis and Management**. Winter 2019.
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Low participation rates in government assistance programs are a major policy concern in the United States. This paper studies take‐up of Section 8 housing vouchers, a program in which take‐up rates are quite low among interested and eligible households. We link 18,109 households in Chicago that were offered vouchers through a lottery to administrative data and study how baseline employment, earnings, public assistance, arrests, residential location, and children's academic performance predict take‐up. Our analysis finds mixed evidence of whether the most disadvantaged or distressed households face the largest barriers to program participation. We also study the causal impact of peer behavior on take‐up by exploiting idiosyncratic variation in the timing of voucher offers. We find that the probability of lease‐up increases with the number of neighbors who recently received voucher offers. Finally, we explore the policy implications of increasing housing voucher take‐up by applying reweighting methods to existing causal impact estimates of voucher receipt. This analysis suggests that greater utilization of vouchers may lead to larger reductions in labor market activity. Differences in take‐up rates across settings may be important to consider when assessing the external validity of studies identifying the effects of public assistance programs.<br></p> </blockquote>   
    </details>
    
-3\. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.nber.org/papers/w19838) (with Lint Barrage and Justine Hastings). **American Economic Journal: Economic Policy**. February 2020. Available as NBER Working Paper #19838. 
+3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.nber.org/papers/w19838) (with Lint Barrage and Justine Hastings). **American Economic Journal: Economic Policy**. February 2020. Available as NBER Working Paper #19838. 
 
    <details><summary> Abstract (+) </summary>
    
@@ -43,7 +43,7 @@ subtitle:
 
    *Press Coverage:* [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
    
-4\. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Forthcoming at the **Journal of Human Resources**).
+4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Forthcoming at the **Journal of Human Resources**).
 
    <details><summary> Abstract (+) </summary>
    
@@ -54,7 +54,7 @@ subtitle:
 ## Working Papers
 ----
 
-5\. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Revise and Resubmit at **American Economic Review**).
+5. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Revise and Resubmit at **American Economic Review**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -63,7 +63,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-6\. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Revised and Resubmitted to the **Journal of Political Economy**).
+6. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Revised and Resubmitted to the **Journal of Political Economy**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -72,7 +72,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-7\. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.nber.org/papers/w25753) (with Samantha Gold and Justine Hastings). NBER Working Paper #25753. (Revised and Resubmitted to the **Journal of Health Economics**).
+7. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.nber.org/papers/w25753) (with Samantha Gold and Justine Hastings). NBER Working Paper #25753. (Revised and Resubmitted to the **Journal of Health Economics**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -83,7 +83,7 @@ subtitle:
    
    *Press Coverage:* [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
 
-8\. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf) (Revise and Resubmit at the **Review of Economics and Statistics**.)
+8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf) (Revise and Resubmit at the **Review of Economics and Statistics**.)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -92,7 +92,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-9\. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.nber.org/papers/w27302) (with Stephen Billings and Kareem Haggag). NBER Working Paper #27302. [Ungated Link to PDF.](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf) (Conditionally Accepted at **American Economic Review: Insights**).
+9. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.nber.org/papers/w27302) (with Stephen Billings and Kareem Haggag). NBER Working Paper #27302. [Ungated Link to PDF.](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf) (Conditionally Accepted at **American Economic Review: Insights**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -106,6 +106,6 @@ subtitle:
 ## Selected Work in Progress
 ----
 
-1\. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+1. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
 
-2\. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+2. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
