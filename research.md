@@ -106,6 +106,6 @@ subtitle:
 ## Selected Work in Progress
 ----
 
-1. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+1\. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
 
-2. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+2\. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
