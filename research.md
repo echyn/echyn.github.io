@@ -43,7 +43,7 @@ subtitle:
 
    *Press Coverage:* [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
    
-4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin) (Forthcoming at the **Journal of Human Resources**).
+4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). Forthcoming at the **Journal of Human Resources**.
 
    <details><summary> Abstract (+) </summary>
    
@@ -62,7 +62,7 @@ subtitle:
    
    *Press Coverage:* [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
    
-6. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. Available as NBER Working Paper #27302. [Ungated Link to PDF](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf).
+6. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&) (with Stephen Billings and Kareem Haggag). Forthcoming at the **American Economic Review: Insights**. Available as NBER Working Paper #27302. [Ungated Link to PDF](http://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity.pdf).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
