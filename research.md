@@ -27,7 +27,9 @@ subtitle:
    
    *Previous Version:* [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
 
-2. [Housing Voucher Take-Up and Labor Market Impacts](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104) (with Josh Hyman and Max Kapustin). **Journal of Policy Analysis and Management**. Winter 2019.
+2. [Housing Voucher Take-Up and Labor Market Impacts](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104) 
+(with Josh Hyman and Max Kapustin). 
+**Journal of Policy Analysis and Management**. Winter 2019.
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Low participation rates in government assistance programs are a major policy concern in the United States. This paper studies take‐up of Section 8 housing vouchers, a program in which take‐up rates are quite low among interested and eligible households. We link 18,109 households in Chicago that were offered vouchers through a lottery to administrative data and study how baseline employment, earnings, public assistance, arrests, residential location, and children's academic performance predict take‐up. Our analysis finds mixed evidence of whether the most disadvantaged or distressed households face the largest barriers to program participation. We also study the causal impact of peer behavior on take‐up by exploiting idiosyncratic variation in the timing of voucher offers. We find that the probability of lease‐up increases with the number of neighbors who recently received voucher offers. Finally, we explore the policy implications of increasing housing voucher take‐up by applying reweighting methods to existing causal impact estimates of voucher receipt. This analysis suggests that greater utilization of vouchers may lead to larger reductions in labor market activity. Differences in take‐up rates across settings may be important to consider when assessing the external validity of studies identifying the effects of public assistance programs.<br></p> </blockquote>   
@@ -43,7 +45,7 @@ subtitle:
 
    *Press Coverage:* [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
    
-4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf). (with Lasse Brune and Jason Kerwin). Forthcoming at the **Journal of Human Resources**.
+4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). Forthcoming at the **Journal of Human Resources**.
 
    <details><summary> Abstract (+) </summary>
    
