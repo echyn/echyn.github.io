@@ -16,7 +16,7 @@ subtitle:
 ## Selected Print Media Coverage
 ---
 
-- [White students exposed to more minority peers are less likely to register as Republicans, study says](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
+- [Washington Post, "White students exposed to more minority peers are less likely to register as Republicans, study says"](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
 -  [New York Times, "Growing Up in a Bad Neighborhood Does More Harm Than We Thought", March 2016.](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html)
 - [Marginal Revolution, "Do America's Poor Move Around Enough?", March 2016.](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html)
 - [The Atlantic: Citylab, "Housing Vouchers, Economic Mobility, and Chicago's Infamous 'Projects'", March 2016.](http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/)
