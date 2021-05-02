@@ -72,11 +72,8 @@ subtitle:
    </details>
    
    *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
-
-## Working Papers
-----
-
-7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). (Conditionally Accepted at **American Economic Review**).
+   
+7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). (Forthcoming at the **American Economic Review**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -85,7 +82,10 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-8. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Revise and Resubmit at the **Journal of Political Economy**).
+## Working Papers
+----
+
+8. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Third revision requested at the **Journal of Political Economy**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
