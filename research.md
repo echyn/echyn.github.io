@@ -106,6 +106,12 @@ subtitle:
 ## Selected Work in Progress
 ----
 
-1. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+1. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart)
 
-2. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+2. Equilibrium Effects of Neighborhood Interventions (with Diego Daruich)
+
+3. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart)
+
+4. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+
+5. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
