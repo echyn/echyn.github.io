@@ -73,7 +73,7 @@ subtitle:
    
    *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
    
-7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). (Forthcoming at the **American Economic Review**).
+7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
