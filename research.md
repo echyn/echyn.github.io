@@ -81,6 +81,8 @@ subtitle:
    We study a simple savings scheme that allows workers to defer receipt of part of their wages for three months at zero interest. The scheme significantly increases savings  during the deferral period, leading to higher post-disbursement spending on lumpy expenditures. Two years later, after two additional rounds of the savings scheme, we find that treated workers have made permanent improvements to their homes. The popularity of the scheme suggests a lack of good alternative savings options, and analysis of a follow-up experiment shows that demand for the scheme is also due to the scheme's ability to address self-control issues.
    <br></p> </blockquote>   
    </details>
+   
+   *Press Coverage:* [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
 
 ## Working Papers
 ----
