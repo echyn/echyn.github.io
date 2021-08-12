@@ -4,8 +4,10 @@ title: Research
 subtitle: 
 ---
 
-## Peer Reviewed Publications
+## Research
 ----
+
+*Peer Reviewed Publications*
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](https://www.aeaweb.org/articles?id=10.1257/aer.20161352). **American Economic Review**. October 2018.
 
@@ -84,7 +86,8 @@ subtitle:
    
    *Press Coverage:* [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
 
-# Working Papers
+*Working Papers*
+----
 
 8. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Third revision requested at the **Journal of Political Economy**).
 
