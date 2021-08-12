@@ -7,7 +7,7 @@ subtitle:
 <!-- ## Research -->
 <!-- ---- -->
 
-*Peer Reviewed Publications*
+    *Peer Reviewed Publications*
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](https://www.aeaweb.org/articles?id=10.1257/aer.20161352). **American Economic Review**. October 2018.
 
