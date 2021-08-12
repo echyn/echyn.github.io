@@ -7,7 +7,7 @@ subtitle:
 <!-- ## Research -->
 <!-- ---- -->
 
-    **Peer Reviewed Publications**
+**Peer Reviewed Publications**
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](https://www.aeaweb.org/articles?id=10.1257/aer.20161352). **American Economic Review**. October 2018.
 
@@ -86,8 +86,7 @@ subtitle:
    
    *Press Coverage:* [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
 
-    **Working Papers**
-    ----
+**Working Papers**
 
 8. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Third revision requested at the **Journal of Political Economy**).
 
@@ -107,17 +106,16 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-## Selected Work in Progress
-----
+**Selected Work in Progress**
 
-1. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart)
+10. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart)
 
-2. Equilibrium Effects of Neighborhood Interventions (with Diego Daruich)
+11. Equilibrium Effects of Neighborhood Interventions (with Diego Daruich)
 
-3. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav) 
+12. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav) 
 
-4. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart)
+13. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart)
 
-5. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+14. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
 
-6. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+15. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
