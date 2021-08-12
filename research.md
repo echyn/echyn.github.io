@@ -112,8 +112,10 @@ subtitle:
 
 2. Equilibrium Effects of Neighborhood Interventions (with Diego Daruich)
 
-3. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart)
+3. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav) 
 
-4. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+4. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart)
 
-5. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+5. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+
+6. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
