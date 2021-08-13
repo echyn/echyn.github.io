@@ -4,7 +4,7 @@ title: Grants
 subtitle: 
 ---
 
-** External Grants (Selected List) **
+**External Grants (Selected List)**
 
 1. "Deferring Wages and Labor Supply in Malawi" ($344,000)
   
@@ -36,7 +36,7 @@ subtitle:
    [NSF Award No. 2018266](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018266)
    
 
-** Internal Grants **
+**Internal Grants**
 
 - University of Michigan
    - Population Studies Center, Small Grant Award, 2016, $8,000
