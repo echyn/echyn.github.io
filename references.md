@@ -4,7 +4,7 @@ title: References
 subtitle: 
 ---
 
-## Dissertation Committee
+**Dissertation Committee**
 ---
 
 At the University of Michigan, I received excellent training from the following faculty:
@@ -33,7 +33,7 @@ At the University of Michigan, I received excellent training from the following 
    University of Michigan  
    [econjeff@umich.edu](mailto:econjeff@umich.edu)  
 
-## Additional Thesis Adviser
+**Additional Thesis Adviser**
 ---
 
 - [Justin Wolfers](http://users.nber.org/~jwolfers/)  
