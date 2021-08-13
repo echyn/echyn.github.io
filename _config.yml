@@ -85,7 +85,7 @@ url-pretty: "http://www.ericchyn.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+#disqus: "" 
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -94,7 +94,8 @@ url-pretty: "http://www.ericchyn.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
-markdown: kramdown
+# markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
