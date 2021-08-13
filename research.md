@@ -118,10 +118,8 @@ subtitle:
 
 14. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
 
-15. How America Dodged the Draft: The Demographic Legacy of Vietnam (with Martha Bailey)
+15. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)
 
 **Other Publications**
 
-17.  Fees, Framing and Financial Literacy in the Choice of Pension Manager (with Justine Hastings and Olivia Mitchell) in *Financial Literacy: Implications for Retirement Security and the Financial Marketplace*. 2010. Pension Research Council.
-   
-18. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
+17. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
