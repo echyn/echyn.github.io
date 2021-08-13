@@ -123,6 +123,5 @@ subtitle:
 **Other Publications**
 
 17.  Fees, Framing and Financial Literacy in the Choice of Pension Manager (with Justine Hastings and Olivia Mitchell) in *Financial Literacy: Implications for Retirement Security and the Financial Marketplace*. 2010. Pension Research Council.
-   <details><summary> Abstract (+) </summary>
    
 18. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
