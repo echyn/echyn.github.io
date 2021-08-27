@@ -64,7 +64,7 @@ subtitle:
    
    *Press Coverage:* [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
    
-6. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&) (with Stephen Billings and Kareem Haggag). Forthcoming at the **American Economic Review: Insights**. Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
+6. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. September 2021. Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
