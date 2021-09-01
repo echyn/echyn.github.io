@@ -16,6 +16,7 @@ subtitle:
 ## Selected Print Media Coverage
 ---
 
+- [New York Times, "How Strong Is America’s Multiracial Democracy?".](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html)
 - [Washington Post, "White students exposed to more minority peers are less likely to register as Republicans, study says", June 2020.](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
 -  [New York Times, "Growing Up in a Bad Neighborhood Does More Harm Than We Thought", March 2016.](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html)
 - [Marginal Revolution, "Do America's Poor Move Around Enough?", March 2016.](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html)
