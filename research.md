@@ -73,7 +73,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-   *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/)
+   *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html)
    
 7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
 
@@ -108,17 +108,25 @@ subtitle:
 
 **Selected Work in Progress**
 
-10. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart)
+10. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart).
 
-11. Equilibrium Effects of Neighborhood Interventions (with Diego Daruich)
+    <details><summary> Abstract (+) </summary>
+      <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
+      </details>
 
-12. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav) 
+11. Equilibrium Effects of Neighborhood Interventions (with Diego Daruich).
 
-13. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart)
+    <details><summary> Abstract (+) </summary>
+      <blockquote> <p align="justify"> To study the effects of neighborhood and place-based interventions, this paper incorporates neighborhood effects into a general equilibrium (GE) heterogeneous-agent overlapping-generations model with endogenous location choice and child skill development. Importantly, housing costs as well as neighborhood effects are endogenously determined in equilibrium. Having calibrated the model using U.S. data, we use simulations to show that predictions from the model match reduced form evidence from experimental and quasi-experimental studies of housing mobility and urban development programs. After this validation exercise, we study the long-run and large-scale impacts of vouchers and place-based subsidies. Both policies result in welfare gains by reducing inequality and generating improvements in average skills and productivity, all of which offset higher levels of taxes and other GE effects. We find that a voucher program generates larger welfare gains relative to place-based polices. Even though the voucher program leads to higher long-run welfare gains, our analysis of transition dynamics suggests there may be more political support for place-based policies.<br></p> </blockquote>   
+      </details>
 
-14. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition 
+12. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). 
 
-15. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)
+13. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart).
+
+14. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
+
+15. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey).
 
 **Other Publications**
 
