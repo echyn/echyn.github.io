@@ -73,7 +73,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-   *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html)
+   *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html), [AEA Research Highlights](https://www.aeaweb.org/research/school-diversity-political-affiliations)
    
 7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
 
