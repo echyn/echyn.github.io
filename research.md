@@ -88,7 +88,7 @@ subtitle:
 
 **Working Papers**
 
-8. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Third revision requested at the **Journal of Political Economy**).
+8. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Fourth revision requested at the **Journal of Political Economy**).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
