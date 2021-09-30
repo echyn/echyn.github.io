@@ -27,7 +27,7 @@ subtitle:
   
    *Press Coverage:* [New York Times](http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html), [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html), [The Atlantic: Citylab](http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/), [The American Prospect](http://prospect.org/article/when-poor-move-do-they-move), [Slate](http://www.slate.com/blogs/xx_factor/2016/04/08/getting_poor_kids_out_of_poor_neighborhoods_helps_even_more_than_we_thought.html), [Mother Jones](http://www.motherjones.com/kevin-drum/2016/03/moving-kids-out-bad-neighborhoods-big-deal), [Spotlight on Poverty and Opportunity](http://spotlightonpoverty.org/spotlight-exclusives/big-benefits-moving-better-neighborhood/), [AEA Research Highlights](https://www.aeaweb.org/research/public-housing-demolition-forced-relocation-impact-employment-earnings)
    
-   *Previous Version:* [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
+   Previous Version: [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
 
 2. [Housing Voucher Take-Up and Labor Market Impacts](http://www.ericchyn.com/files/CHK_2018_JPAM_Housing_Voucher_Take-Up_and_Labor_Market_Impacts.pdf) (with Josh Hyman and Max Kapustin). **Journal of Policy Analysis and Management**. Winter 2019. [Publication Link](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104).
 
@@ -68,7 +68,7 @@ subtitle:
    
    Available as [NBER Working Paper #25753](https://www.nber.org/papers/w25753).
    
-6. [The Long-Run Effects of School Racial Diversity on Political Identity](http://www.ericchyn.com/files/BCH_2021_AERI_The_Long-Run_Effects_of_School_Racial_Diversity) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. September 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&).
+6. [The Long-Run Effects of School Racial Diversity on Political Identity](http://www.ericchyn.com/files/BCH_2021_AERI_The_Long-Run_Effects_of_School_Racial_Diversity.pdf) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. September 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
