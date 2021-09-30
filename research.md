@@ -9,7 +9,7 @@ subtitle:
 
 **Peer Reviewed Publications**
 
-1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). **American Economic Review**. October 2018. [Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
+1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). **American Economic Review**. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
 
    <details><summary> Abstract (+) </summary>
    
@@ -29,13 +29,13 @@ subtitle:
    
    *Previous Version:* [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
 
-2. [Housing Voucher Take-Up and Labor Market Impacts](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104) (with Josh Hyman and Max Kapustin). **Journal of Policy Analysis and Management**. Winter 2019.
+2. [Housing Voucher Take-Up and Labor Market Impacts](http://www.ericchyn.com/files/CHK_2018_JPAM_Housing_Voucher_Take-Up_and_Labor_Market_Impacts.pdf) (with Josh Hyman and Max Kapustin). **Journal of Policy Analysis and Management**. Winter 2019. [Publication Link](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104).
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Low participation rates in government assistance programs are a major policy concern in the United States. This paper studies take‐up of Section 8 housing vouchers, a program in which take‐up rates are quite low among interested and eligible households. We link 18,109 households in Chicago that were offered vouchers through a lottery to administrative data and study how baseline employment, earnings, public assistance, arrests, residential location, and children's academic performance predict take‐up. Our analysis finds mixed evidence of whether the most disadvantaged or distressed households face the largest barriers to program participation. We also study the causal impact of peer behavior on take‐up by exploiting idiosyncratic variation in the timing of voucher offers. We find that the probability of lease‐up increases with the number of neighbors who recently received voucher offers. Finally, we explore the policy implications of increasing housing voucher take‐up by applying reweighting methods to existing causal impact estimates of voucher receipt. This analysis suggests that greater utilization of vouchers may lead to larger reductions in labor market activity. Differences in take‐up rates across settings may be important to consider when assessing the external validity of studies identifying the effects of public assistance programs.<br></p> </blockquote>   
    </details>
    
-3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](https://www.aeaweb.org/articles?id=10.1257/pol.20160555) (with Lint Barrage and Justine Hastings). **American Economic Journal: Economic Policy**. February 2020. Available as [NBER Working Paper #19838](http://www.nber.org/papers/w19838). 
+3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](https://www.aeaweb.org/articles?id=10.1257/pol.20160555) (with Lint Barrage and Justine Hastings). **American Economic Journal: Economic Policy**. February 2020. Available as [NBER Working Paper #19838](http://www.nber.org/papers/w19838). [Publication Link](https://www.aeaweb.org/articles?id=10.1257/pol.20160555). 
 
    <details><summary> Abstract (+) </summary>
    
@@ -53,7 +53,7 @@ subtitle:
    <p align="justify"> This paper studies workplace peer effects by randomly varying work assignments at a tea estate in Malawi. We find that increasing mean peer ability by 10 percent raises productivity by 0.3 percent. This effect is driven by the responses of women. Neither production nor compensation externalities cause the effect because workers receive piece rates and do not work in teams. Additional analyses provide no support for learning or socialization as mechanisms. Instead, peer effects appear to operate through "motivation": given the choice to be reassigned, most workers prefer working near high-ability co-workers because these peers motivate them to work harder.<br></p> </blockquote>   
    </details>
 
-5. [The Returns to Early-life Interventions for Very Low Birth Weight Children](https://www.sciencedirect.com/science/article/pii/S0167629620310468) (with Samantha Gold and Justine Hastings). **Journal of Health Economics**. January 2021. Available at [NBER Working Paper #25753](https://www.nber.org/papers/w25753).
+5. [The Returns to Early-life Interventions for Very Low Birth Weight Children](http://www.ericchyn.com/files/CGH_2021_JHE_The_Returns_to_Early-life_Interventions) (with Samantha Gold and Justine Hastings). **Journal of Health Economics**. January 2021. [Publication Link](https://www.sciencedirect.com/science/article/pii/S0167629620310468).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -64,7 +64,9 @@ subtitle:
    
    *Press Coverage:* [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
    
-6. [The Long-Run Effects of School Racial Diversity on Political Identity](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. September 2021. Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
+   Available as [NBER Working Paper #25753](https://www.nber.org/papers/w25753).
+   
+6. [The Long-Run Effects of School Racial Diversity on Political Identity](http://www.ericchyn.com/files/BCH_2021_AERI_The_Long-Run_Effects_of_School_Racial_Diversity) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. September 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -74,6 +76,8 @@ subtitle:
    </details>
    
    *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html), [AEA Research Highlights](https://www.aeaweb.org/research/school-diversity-political-affiliation)
+   
+   Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
    
 7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
 
