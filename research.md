@@ -35,7 +35,7 @@ subtitle:
    <blockquote> <p align="justify"> Low participation rates in government assistance programs are a major policy concern in the United States. This paper studies take‐up of Section 8 housing vouchers, a program in which take‐up rates are quite low among interested and eligible households. We link 18,109 households in Chicago that were offered vouchers through a lottery to administrative data and study how baseline employment, earnings, public assistance, arrests, residential location, and children's academic performance predict take‐up. Our analysis finds mixed evidence of whether the most disadvantaged or distressed households face the largest barriers to program participation. We also study the causal impact of peer behavior on take‐up by exploiting idiosyncratic variation in the timing of voucher offers. We find that the probability of lease‐up increases with the number of neighbors who recently received voucher offers. Finally, we explore the policy implications of increasing housing voucher take‐up by applying reweighting methods to existing causal impact estimates of voucher receipt. This analysis suggests that greater utilization of vouchers may lead to larger reductions in labor market activity. Differences in take‐up rates across settings may be important to consider when assessing the external validity of studies identifying the effects of public assistance programs.<br></p> </blockquote>   
    </details>
    
-3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.ericchyn.com/files/BCH_2020_AEJ_Advertising_and_Environmental_Stewardship.pdf) (with Lint Barrage and Justine Hastings). **American Economic Journal: Economic Policy**. February 2020. Available as [NBER Working Paper #19838](http://www.nber.org/papers/w19838). [Publication Link](https://www.aeaweb.org/articles?id=10.1257/pol.20160555). 
+3. [Advertising and Environmental Stewardship: Evidence from the BP Oil Spill](http://www.ericchyn.com/files/BCH_2020_AEJ_Advertising_and_Environmental_Stewardship.pdf) (with Lint Barrage and Justine Hastings). **American Economic Journal: Economic Policy**. February 2020. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/pol.20160555). 
 
    <details><summary> Abstract (+) </summary>
    
@@ -44,6 +44,8 @@ subtitle:
    </details>
 
    *Press Coverage:* [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
+   
+   Available as [NBER Working Paper #19838](http://www.nber.org/papers/w19838).
    
 4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). Forthcoming at the **Journal of Human Resources**.
 
@@ -79,7 +81,7 @@ subtitle:
    
    Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
    
-7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PayMeLater_Latest.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
+7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657). 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -89,6 +91,8 @@ subtitle:
    </details>
    
    *Press Coverage:* [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
+   
+   Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
 
 **Working Papers**
 
