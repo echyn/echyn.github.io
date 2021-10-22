@@ -7,7 +7,7 @@ subtitle:
 <!-- ## Research -->
 <!-- ---- -->
 
-**Peer Reviewed Publications**
+**Academic Journal Publications**
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). **American Economic Review**. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
 
@@ -113,29 +113,31 @@ subtitle:
    How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.
    <br></p> </blockquote>   
    </details>
+   
+10. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). NBER Working Paper #28953. Forthcoming at the **Journal of Economic Perspectives**]
 
 **Selected Work in Progress**
 
-10. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart).
+11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
       </details>
 
-11. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)
+12. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> To study the effects of neighborhood and place-based interventions, this paper incorporates neighborhood effects into a general equilibrium (GE) heterogeneous-agent overlapping-generations model with endogenous location choice and child skill development. Importantly, housing costs as well as neighborhood effects are endogenously determined in equilibrium. Having calibrated the model using U.S. data, we use simulations to show that predictions from the model match reduced form evidence from experimental and quasi-experimental studies of housing mobility and urban development programs. After this validation exercise, we study the long-run and large-scale impacts of vouchers and place-based subsidies. Both policies result in welfare gains by reducing inequality and generating improvements in average skills and productivity, all of which offset higher levels of taxes and other GE effects. We find that a voucher program generates larger welfare gains relative to place-based polices. Even though the voucher program leads to higher long-run welfare gains, our analysis of transition dynamics suggests there may be more political support for place-based policies.<br></p> </blockquote>   
       </details>
 
-12. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). 
+13. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). 
 
-13. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart).
+14. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart).
 
-14. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
+15. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
 
-15. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey).
+16. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey).
 
-**Other Publications**
+**Other Academic Publications**
 
-16. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
+17. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
