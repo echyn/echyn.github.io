@@ -7,44 +7,35 @@ subtitle:
 **Current References**
 ---
 
-Available on request.
+- [Martha Bailey](https://sites.google.com/g.ucla.edu/marthajbailey)  
+   Department of Economics  
+   University of California-Los Angeles   
+   [marthabailey@ucla.edu](mailto:marthabailey@ucla.edu) 
+   
+- [Jeff Smith](https://sites.google.com/site/econjeffsmith/home)   
+   Department of Economics  
+   University of Wisconsin-Madison   
+   [econjeff@ssc.wisc.edu](mailto:econjeff@ssc.wisc.edu) 
+   
+ - [Lawrence Katz](https://scholar.harvard.edu/lkatz/home)   
+   Department of Economics  
+   Harvard University   
+   [lkatz@harvard.edu](mailto:lkatz@harvard.edu)  
 
 **Dissertation Committee**
 ---
 
 At the University of Michigan, I received excellent training from the following faculty:
 
-- [Martha Bailey](https://sites.google.com/a/umich.edu/baileymj/home) (Chair)  
-   Department of Economics  
-   Population Studies Center   
-   University of Michigan  
-   [mjbailey@umich.edu](mailto:mjbailey@umich.edu)  
-
-- [John DiNardo](http://www-personal.umich.edu/~jdinardo/)  
-   Gerald R. Ford School of Public Policy  
-   Law School  
-   University of Michigan    
-   [jdinardo@umich.edu](mailto:jdinardo@umich.edu)  
-
-- [Brian Jacob](http://brian-jacob.com)  
-   Gerald R. Ford School of Public Policy  
-   School of Education  
-   University of Michigan  
-   [bajacob@umich.edu](mailto:bajacob@umich.edu) 
-
-- [Jeff Smith](https://ssc.wisc.edu/~econjeff/)  
-   Department of Economics  
-   Gerald R. Ford School of Public Policy  
-   University of Michigan  
-   [econjeff@umich.edu](mailto:econjeff@umich.edu)  
+- Martha Bailey
+- John DiNardo
+- Brian Jacob
+- Jeff Smith
 
 **Additional Thesis Adviser**
 ---
 
-- [Justin Wolfers](http://users.nber.org/~jwolfers/)  
-   Department of Economics  
-   Gerald R. Ford School of Public Policy  
-   University of Michigan  
-   [jwolfers@umich.edu](mailto:jwolfers@umich.edu)
+- Justin Wolfers 
+  
 
 
