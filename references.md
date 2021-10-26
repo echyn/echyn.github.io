@@ -12,15 +12,16 @@ subtitle:
    University of California-Los Angeles   
    [marthabailey@ucla.edu](mailto:marthabailey@ucla.edu) 
    
+ - [Lawrence Katz](https://scholar.harvard.edu/lkatz/home)   
+   Department of Economics  
+   Harvard University   
+   [lkatz@harvard.edu](mailto:lkatz@harvard.edu) 
+   
 - [Jeff Smith](https://sites.google.com/site/econjeffsmith/home)   
    Department of Economics  
    University of Wisconsin-Madison   
    [econjeff@ssc.wisc.edu](mailto:econjeff@ssc.wisc.edu) 
-   
- - [Lawrence Katz](https://scholar.harvard.edu/lkatz/home)   
-   Department of Economics  
-   Harvard University   
-   [lkatz@harvard.edu](mailto:lkatz@harvard.edu)  
+  
 
 **Dissertation Committee**
 ---
