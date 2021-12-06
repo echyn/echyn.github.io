@@ -7,7 +7,7 @@ subtitle:
 <!-- ## Research -->
 <!-- ---- -->
 
-**Academic Journal Publications**
+**Academic Journal Publications (Including Accepted Work)**
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). **American Economic Review**. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
 
@@ -94,18 +94,7 @@ subtitle:
    
    Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
 
-**Working Papers**
-
-8. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.nber.org/papers/w25419) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Accepted at the **Journal of Political Economy**).
-
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify"> 
-   This paper measures impacts of removing children from families investigated for abuse or neglect. We use removal tendencies of child protection investigators as an instrument. We focus on young children investigated before age 6 and find that removal significantly increases test scores and reduces grade repetition for girls. There are no detectable impacts for boys. This pattern of results does not appear to be driven by heterogeneity in pre-removal characteristics, foster placements, or the type of schools attended after removal. The results are consistent with the hypothesis that development of abused and neglected girls is more responsive to home removal.
-   <br></p> </blockquote>   
-   </details>
-
-9. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf) (Accepted at the **Review of Economics and Statistics**.)
+8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf) (Accepted at the **Review of Economics and Statistics**.)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -114,7 +103,16 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-10. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). NBER Working Paper #28953. Forthcoming at the **Journal of Economic Perspectives**]
+9. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197)
+
+11. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Accepted at the **Journal of Political Economy**).
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> 
+   This paper measures impacts of removing children from families investigated for abuse or neglect. We use removal tendencies of child protection investigators as an instrument. We focus on young children investigated before age 6 and find that removal significantly increases test scores and reduces grade repetition for girls. There are no detectable impacts for boys. This pattern of results does not appear to be driven by heterogeneity in pre-removal characteristics, foster placements, or the type of schools attended after removal. The results are consistent with the hypothesis that development of abused and neglected girls is more responsive to home removal.
+   <br></p> </blockquote>   
+   </details>
 
 **Selected Work in Progress**
 
