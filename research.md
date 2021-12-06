@@ -105,14 +105,20 @@ subtitle:
    
 9. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197)
 
-11. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Accepted at the **Journal of Political Economy**).
-
    <details><summary> Abstract (+) </summary>
    <blockquote>
    <p align="justify"> 
-   This paper measures impacts of removing children from families investigated for abuse or neglect. We use removal tendencies of child protection investigators as an instrument. We focus on young children investigated before age 6 and find that removal significantly increases test scores and reduces grade repetition for girls. There are no detectable impacts for boys. This pattern of results does not appear to be driven by heterogeneity in pre-removal characteristics, foster placements, or the type of schools attended after removal. The results are consistent with the hypothesis that development of abused and neglected girls is more responsive to home removal.
+   How does one's place of residence affect individual behavior and long-run outcomes? Understanding neighborhood and place effects has been a leading question for social scientists during the past half-century. Recent empirical studies using experimental and quasi-experimental research designs have generated new insights on the importance of residential neighborhoods in childhood and adulthood. This paper summarizes the recent neighborhood effects literature and interprets the findings. Childhood neighborhoods affect long-run economic and educational outcomes in a manner consistent with exposure models of neighborhood effects. For adults, neighborhood environments matter for their health and well-being but have more ambiguous impacts on labor market outcomes. We discuss the evidence on the mechanisms behind the observed patterns and conclude by highlighting directions for future research.
    <br></p> </blockquote>   
    </details>
+
+10. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Accepted at the **Journal of Political Economy**).
+      <details><summary> Abstract (+) </summary>
+      <blockquote>
+      <p align="justify"> 
+      This paper measures impacts of removing children from families investigated for abuse or neglect. We use removal tendencies of child protection investigators as an  instrument. We focus on young children investigated before age 6 and find that removal significantly increases test scores and reduces grade repetition for girls. There are no detectable impacts for boys. This pattern of results does not appear to be driven by heterogeneity in pre-removal characteristics, foster placements, or the type of schools attended after removal. The results are consistent with the hypothesis that development of abused and neglected girls is more responsive to home removal.
+      <br></p> </blockquote>   
+      </details>
 
 **Selected Work in Progress**
 
