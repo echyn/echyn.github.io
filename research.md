@@ -146,6 +146,8 @@ subtitle:
 
 16. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey).
 
+17. Does Gifted Education Work? (with David Card and Laura Giuliano). 
+
 **Other Academic Publications**
 
-17. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
+18. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
