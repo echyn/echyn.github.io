@@ -140,7 +140,7 @@ subtitle:
       <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
       </details>
 
-14. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Amalgro and Bryan Stuart).
+14. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart).
 
 15. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
 
