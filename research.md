@@ -148,7 +148,7 @@ subtitle:
 
 17. Does Gifted Education Work? (with David Card and Laura Giuliano). 
 
-18.  The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement (with Kareem Haggag and Bryan Stuart).
+18. The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement (with Kareem Haggag and Bryan Stuart).
 
 **Other Academic Publications**
 
