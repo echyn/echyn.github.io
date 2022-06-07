@@ -81,7 +81,7 @@ subtitle:
    
    Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
    
-7. [Pay Me Later: The Impact of a Simple Employer-based Savings Scheme](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657). 
+7. [Pay Me Later: Savings Constraints and the Demand for Deferred Payments](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657). 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
