@@ -47,7 +47,7 @@ subtitle:
    
    Available as [NBER Working Paper #19838](http://www.nber.org/papers/w19838).
    
-4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). **Journal of Human Resources**. July 2022. [Plublication Link](http://jhr.uwpress.org/content/57/4/1147.abstract?etoc).
+4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). **Journal of Human Resources**. July 2022. [Publication Link](http://jhr.uwpress.org/content/57/4/1147.abstract?etoc).
 
    <details><summary> Abstract (+) </summary>
    
