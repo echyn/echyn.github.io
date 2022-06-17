@@ -47,7 +47,7 @@ subtitle:
    
    Available as [NBER Working Paper #19838](http://www.nber.org/papers/w19838).
    
-4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). Forthcoming at the **Journal of Human Resources**.
+4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). **Journal of Human Resources**. July 2022. [Plublication Link](http://jhr.uwpress.org/content/57/4/1147.abstract?etoc).
 
    <details><summary> Abstract (+) </summary>
    
@@ -103,7 +103,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
-9. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197)
+9. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -112,7 +112,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-10. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. (Accepted at the **Journal of Political Economy**).
+10. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
       <details><summary> Abstract (+) </summary>
       <blockquote>
       <p align="justify"> 
