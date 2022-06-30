@@ -124,22 +124,22 @@ subtitle:
 
 11. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey). (Revise and Resubmit at the Journal of Human Resources).
 
-12. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich).
+12. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). (Revise and Resubmit at the American Economic Journal: Applied Economics).
+
+    <details><summary> Abstract (+) </summary>
+      <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
+      </details>
+
+13. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> To study the effects of neighborhood and place-based interventions, this paper incorporates neighborhood effects into a general equilibrium (GE) heterogeneous-agent overlapping-generations model with endogenous location choice and child skill development. Importantly, housing costs as well as neighborhood effects are endogenously determined in equilibrium. Having calibrated the model using U.S. data, we use simulations to show that predictions from the model match reduced form evidence from experimental and quasi-experimental studies of housing mobility and urban development programs. After this validation exercise, we study the long-run and large-scale impacts of vouchers and place-based subsidies. Both policies result in welfare gains by reducing inequality and generating improvements in average skills and productivity, all of which offset higher levels of taxes and other GE effects. We find that a voucher program generates larger welfare gains relative to place-based polices. Even though the voucher program leads to higher long-run welfare gains, our analysis of transition dynamics suggests there may be more political support for place-based policies.<br></p> </blockquote>   
       </details>
 
-13. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). 
+14. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). 
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper quantifies the relative importance of place- and family-based determinants of early-life health. Using birth records for three decades from California, we leverage mothers' moves across areas to separately identify the influences of location and family on infant birth weight. We find that location explains 16 percent of geographic variation in birth weight, with the remaining 84 percent attributable to family-specific factors. To explore mechanisms, we conduct a descriptive analysis and find that pollution measures have the strongest correlation with causal estimates of place effects. Overall, the magnitudes of our results are consistent with the idea that previously documented impacts of place on long-run outcomes operate primarily through post-birth channels rather than through in-utero development.<br></p> </blockquote>   
-      </details>
-
-14. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart).
-
-    <details><summary> Abstract (+) </summary>
-      <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
       </details>
 
 15. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart).
