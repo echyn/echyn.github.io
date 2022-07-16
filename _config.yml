@@ -18,7 +18,7 @@ baseurl: ""
 title: Eric Chyn
 
 # Short description of your site
-description: Eric Chyn, Assistant Professor, Department of Economics, Dartmouth College
+description: Eric Chyn, Department of Economics, University of Texas at Austin
 
 # --- Navigation bar options --- #
 
@@ -46,7 +46,7 @@ avatar: "/img/chyn_square.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Eric Chyn
-  email: "eric.t.chyn@dartmouth.edu"
+  email: "eric.chyn@austin.utexas.edu"
   #facebook: yourname  # eg. daattali
   github: echyn    # eg. daattali
   twitter: ericchyn   # eg. daattali
