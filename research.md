@@ -152,4 +152,4 @@ subtitle:
 
 **Other Academic Publications**
 
-18. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
+19. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
