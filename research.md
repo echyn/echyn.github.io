@@ -150,6 +150,8 @@ subtitle:
 
 18. The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement (with Kareem Haggag and Bryan Stuart).
 
+19. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)
+
 **Other Academic Publications**
 
 19. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
