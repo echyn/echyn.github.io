@@ -148,9 +148,9 @@ subtitle:
 
 17. Does Gifted Education Work? (with David Card and Laura Giuliano). 
 
-18. The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement (with Kareem Haggag and Bryan Stuart).
+18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](https://www.nber.org/papers/w30563) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #30563.
 
-19. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)
+19. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler).
 
 **Other Academic Publications**
 
