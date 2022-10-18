@@ -94,7 +94,7 @@ subtitle:
    
    Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
 
-8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf) (Accepted at the **Review of Economics and Statistics**.)
+8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). NBER Working Paper #26515. [Ungated Link to PDF.](http://www.ericchyn.com/files/Chyn_Haggag_2019_Moved_to_Vote.pdf) (Forthcoming at the **Review of Economics and Statistics**.)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -122,9 +122,9 @@ subtitle:
 
 **Selected Work in Progress**
 
-11. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey). (Revise and Resubmit at the Journal of Human Resources).
+11. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey). (Revise and Resubmit at the **Journal of Human Resources**).
 
-12. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). (Revise and Resubmit at the American Economic Journal: Applied Economics).
+12. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). (Revise and Resubmit at the **American Economic Journal: Applied Economics**).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
@@ -149,6 +149,10 @@ subtitle:
 17. Does Gifted Education Work? (with David Card and Laura Giuliano). 
 
 18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #30563.
+
+    <details><summary> Abstract (+) </summary>
+      <blockquote> <p align="justify"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes for White residents.<br></p> </blockquote>   
+      </details>
 
 19. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler).
 
