@@ -156,6 +156,8 @@ subtitle:
 
 19. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler).
 
+20. Examiner and Judge Designs in Economics: A Practitioner's Guide (with Brigham Frandsen and Emily Leslie) 
+
 **Other Academic Publications**
 
-20. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
+21. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
