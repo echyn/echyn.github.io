@@ -136,7 +136,7 @@ subtitle:
       <blockquote> <p align="justify"> This paper quantifies the relative importance of place- and family-based determinants of early-life health. Using birth records for three decades from California, we leverage mothers' moves across areas to separately identify the influences of location and family on infant birth weight. We find that location explains 16 percent of geographic variation in birth weight, with the remaining 84 percent attributable to family-specific factors. To explore mechanisms, we conduct a descriptive analysis and find that pollution measures have the strongest correlation with causal estimates of place effects. Overall, the magnitudes of our results are consistent with the idea that previously documented impacts of place on long-run outcomes operate primarily through post-birth channels rather than through in-utero development.<br></p> </blockquote>   
       </details>
       
-14. Examiner and Judge Designs in Economics: A Practitioner's Guide (with Brigham Frandsen and Emily Leslie) (Commissioned by the **Journal of Economic Literature**)
+14. [Examiner and Judge Designs in Economics: A Practitioner's Guide]http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie) (Commissioned by the **Journal of Economic Literature**)
       
 15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler). (Revise and Resubmit at the **Quarterly Journal of Economics**).
 
