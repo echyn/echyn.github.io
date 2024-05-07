@@ -140,7 +140,7 @@ subtitle:
       
 15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler). (Revise and Resubmit at the **Quarterly Journal of Economics**).
 
-16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich).
+16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich). (Revise and Resubmit at the **American Economic Review**).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> To study the effects of neighborhood and place-based interventions, this paper incorporates neighborhood effects into a general equilibrium (GE) heterogeneous-agent overlapping-generations model with endogenous location choice and child skill development. Importantly, housing costs as well as neighborhood effects are endogenously determined in equilibrium. Having calibrated the model using U.S. data, we use simulations to show that predictions from the model match reduced form evidence from experimental and quasi-experimental studies of housing mobility and urban development programs. After this validation exercise, we study the long-run and large-scale impacts of vouchers and place-based subsidies. Both policies result in welfare gains by reducing inequality and generating improvements in average skills and productivity, all of which offset higher levels of taxes and other GE effects. We find that a voucher program generates larger welfare gains relative to place-based polices. Even though the voucher program leads to higher long-run welfare gains, our analysis of transition dynamics suggests there may be more political support for place-based policies.<br></p> </blockquote>   
@@ -150,7 +150,7 @@ subtitle:
 
 18. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
 
-19. Does Gifted Education Work? (with David Card and Laura Giuliano). 
+19. Does Gifted Education Work? (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
 
 20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #30563.
 
