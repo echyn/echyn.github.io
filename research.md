@@ -138,7 +138,7 @@ subtitle:
       
 14. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie) (Commissioned by the **Journal of Economic Literature**)
       
-15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler). (Revise and Resubmit at the **Quarterly Journal of Economics**).
+15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler). (Conditionally Accepted at the **Quarterly Journal of Economics**).
 
 16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich). (Revise and Resubmit at the **American Economic Review**).
 
