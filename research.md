@@ -114,7 +114,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-      Available as [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
+   Available as [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
 
 11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
 
