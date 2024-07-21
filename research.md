@@ -92,7 +92,7 @@ subtitle:
    
    *Press Coverage:* [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
    
-   Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
+   Available as [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
       
 8. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
 
@@ -114,7 +114,7 @@ subtitle:
    <br></p> </blockquote>   
    </details>
 
-   Available at [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
+   Available as [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
 
 11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
 
