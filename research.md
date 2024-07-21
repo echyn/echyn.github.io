@@ -106,13 +106,6 @@ subtitle:
       </details>
 
 10. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
-  
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify"> 
-   How does one's childhood neighborhood shape political engagement later in life? We leverage a natural experiment that moved children out of disadvantaged neighborhoods to study effects on their voting behavior more than a decade later. Using linked administrative data, we find that children who were displaced by public housing demolitions and moved using housing vouchers are 12 percent (3.3 percentage points) more likely to vote in adulthood, relative to their non-displaced peers. We argue that this result is unlikely to be driven by changes in incarceration or in their parents' outcomes, but rather by improvements in education and labor market outcomes, and perhaps by socialization. These results suggest that, in addition to reducing economic inequality, housing assistance programs that improve one's childhood neighborhood may be a useful tool in reducing inequality in political participation.
-   <br></p> </blockquote>   
-   </details>
 
    Available as [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
 
