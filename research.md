@@ -94,7 +94,7 @@ subtitle:
    
    Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
 
-8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of)
+8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -106,7 +106,6 @@ subtitle:
    Available at [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
       
 10. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
-
    <details><summary> Abstract (+) </summary>
    <blockquote>
    <p align="justify"> 
