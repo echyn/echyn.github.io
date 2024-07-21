@@ -93,8 +93,19 @@ subtitle:
    *Press Coverage:* [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
    
    Available at [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
+      
+8. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
 
-8. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
+9. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
+
+      <details><summary> Abstract (+) </summary>
+      <blockquote>
+      <p align="justify"> 
+      This paper measures impacts of removing children from families investigated for abuse or neglect. We use removal tendencies of child protection investigators as an  instrument. We focus on young children investigated before age 6 and find that removal significantly increases test scores and reduces grade repetition for girls. There are no detectable impacts for boys. This pattern of results does not appear to be driven by heterogeneity in pre-removal characteristics, foster placements, or the type of schools attended after removal. The results are consistent with the hypothesis that development of abused and neglected girls is more responsive to home removal.
+      <br></p> </blockquote>   
+      </details>
+
+10. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -104,19 +115,8 @@ subtitle:
    </details>
 
    Available at [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
-      
-10. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
 
-11. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
-
-      <details><summary> Abstract (+) </summary>
-      <blockquote>
-      <p align="justify"> 
-      This paper measures impacts of removing children from families investigated for abuse or neglect. We use removal tendencies of child protection investigators as an  instrument. We focus on young children investigated before age 6 and find that removal significantly increases test scores and reduces grade repetition for girls. There are no detectable impacts for boys. This pattern of results does not appear to be driven by heterogeneity in pre-removal characteristics, foster placements, or the type of schools attended after removal. The results are consistent with the hypothesis that development of abused and neglected girls is more responsive to home removal.
-      <br></p> </blockquote>   
-      </details>
-
-12. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
+11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
@@ -124,39 +124,39 @@ subtitle:
 
 **Selected Work in Progress**
 
-13. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey). (Revise and Resubmit at the **Journal of Human Resources**).
+12. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey). (Revise and Resubmit at the **Journal of Human Resources**).
       
-14. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). (Revise and Resubmit **American Economic Journal: Economic Policy**).
+13. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). (Revise and Resubmit **American Economic Journal: Economic Policy**).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper quantifies the relative importance of place- and family-based determinants of early-life health. Using birth records for three decades from California, we leverage mothers' moves across areas to separately identify the influences of location and family on infant birth weight. We find that location explains 16 percent of geographic variation in birth weight, with the remaining 84 percent attributable to family-specific factors. To explore mechanisms, we conduct a descriptive analysis and find that pollution measures have the strongest correlation with causal estimates of place effects. Overall, the magnitudes of our results are consistent with the idea that previously documented impacts of place on long-run outcomes operate primarily through post-birth channels rather than through in-utero development.<br></p> </blockquote>   
       </details>
       
-15. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie) (Commissioned by the **Journal of Economic Literature**)
+14. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie) (Commissioned by the **Journal of Economic Literature**)
       
-16. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler). (Conditionally Accepted at the **Quarterly Journal of Economics**).
+15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler). (Conditionally Accepted at the **Quarterly Journal of Economics**).
 
-17. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich). (Revise and Resubmit at the **American Economic Review**).
+16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich). (Revise and Resubmit at the **American Economic Review**).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> To study the effects of neighborhood and place-based interventions, this paper incorporates neighborhood effects into a general equilibrium (GE) heterogeneous-agent overlapping-generations model with endogenous location choice and child skill development. Importantly, housing costs as well as neighborhood effects are endogenously determined in equilibrium. Having calibrated the model using U.S. data, we use simulations to show that predictions from the model match reduced form evidence from experimental and quasi-experimental studies of housing mobility and urban development programs. After this validation exercise, we study the long-run and large-scale impacts of vouchers and place-based subsidies. Both policies result in welfare gains by reducing inequality and generating improvements in average skills and productivity, all of which offset higher levels of taxes and other GE effects. We find that a voucher program generates larger welfare gains relative to place-based polices. Even though the voucher program leads to higher long-run welfare gains, our analysis of transition dynamics suggests there may be more political support for place-based policies.<br></p> </blockquote>   
       </details>
 
-18. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart).
+17. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart).
 
-19. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
+18. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
 
-20. Does Gifted Education Work? (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
+19. Does Gifted Education Work? (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
 
-21. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #30563.
+20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #30563.
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes for White residents.<br></p> </blockquote>   
       </details>
       
-22. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn). NBER Working Paper #31542.
+21. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn). NBER Working Paper #31542.
     
-23. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #32314.
+22. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #32314.
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> How do majority groups respond to a narrowing of inequality in racially polarized environments? We study this question by examining the effects of the Freedmen’s Bureau, an agency created after the U.S. Civil War to provide aid to former slaves and launch institutional reform in the South. We use new historical records and an event study approach to estimate impacts of the Bureau on political economy in the South. In the decade immediately after the war, counties with Bureau field offices had reduced vote shares for Democrats, the major political party that previously championed slavery and opposed Black civil rights during Reconstruction. In the longer-run, we find evidence of backlash in the form of higher Democratic vote shares and increases in several forms of racial violence, including lynchings and attacks against Black schools. This backlash extends through the twentieth century, when we find that counties that once had a Bureau field office have higher rates of second-wave and third-wave Ku Klux Klan activity and lower rates of intergenerational economic mobility. Overall, our results suggest that the initial impacts of the Freedmen’s Bureau stimulated countervailing responses by White majorities who sought to offset social progress of Black Americans.<br></p> </blockquote>   
@@ -164,4 +164,4 @@ subtitle:
 
 **Other Academic Publications**
 
-24. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
+23. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey). **American Economic Association: Papers and Proceedings**. May 2020.
