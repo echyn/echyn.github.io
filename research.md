@@ -106,12 +106,6 @@ subtitle:
    Available at [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
       
 10. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify"> 
-   How does one's place of residence affect individual behavior and long-run outcomes? Understanding neighborhood and place effects has been a leading question for social scientists during the past half-century. Recent empirical studies using experimental and quasi-experimental research designs have generated new insights on the importance of residential neighborhoods in childhood and adulthood. This paper summarizes the recent neighborhood effects literature and interprets the findings. Childhood neighborhoods affect long-run economic and educational outcomes in a manner consistent with exposure models of neighborhood effects. For adults, neighborhood environments matter for their health and well-being but have more ambiguous impacts on labor market outcomes. We discuss the evidence on the mechanisms behind the observed patterns and conclude by highlighting directions for future research.
-   <br></p> </blockquote>   
-   </details>
 
 11. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
 
