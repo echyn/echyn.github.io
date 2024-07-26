@@ -119,7 +119,7 @@ subtitle:
 
 12. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey). (Revise and Resubmit at the **Journal of Human Resources**).
       
-13. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). (Revise and Resubmit **American Economic Journal: Economic Policy**).
+13. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav). (Conditionally Accepted at the **American Economic Journal: Economic Policy**).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper quantifies the relative importance of place- and family-based determinants of early-life health. Using birth records for three decades from California, we leverage mothers' moves across areas to separately identify the influences of location and family on infant birth weight. We find that location explains 16 percent of geographic variation in birth weight, with the remaining 84 percent attributable to family-specific factors. To explore mechanisms, we conduct a descriptive analysis and find that pollution measures have the strongest correlation with causal estimates of place effects. Overall, the magnitudes of our results are consistent with the idea that previously documented impacts of place on long-run outcomes operate primarily through post-birth channels rather than through in-utero development.<br></p> </blockquote>   
