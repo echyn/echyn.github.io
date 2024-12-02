@@ -7,7 +7,7 @@ subtitle:
 <!-- ## Research -->
 <!-- ---- -->
 
-**Academic Journal Publications (Including Accepted Work)**
+**Academic Journal Publications (Click to View PDF)**
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). **American Economic Review**. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
 
@@ -82,10 +82,12 @@ subtitle:
    </details>
    
    *Press Coverage:* [The Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html), [AEA Research Highlights](https://www.aeaweb.org/research/school-diversity-political-affiliation)
-   
+
+   <!---
    Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
+   -->
    
-8. [Pay Me Later: Savings Constraints and the Demand for Deferred Payments](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657). 
+9. [Pay Me Later: Savings Constraints and the Demand for Deferred Payments](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657). 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -95,12 +97,14 @@ subtitle:
    </details>
    
    *Press Coverage:* [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
-   
-   Available as [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
-      
-9. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
 
-10. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
+   <!---
+   Available as [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
+   -->
+      
+11. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
+
+12. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
 
       <details><summary> Abstract (+) </summary>
       <blockquote>
@@ -109,11 +113,11 @@ subtitle:
       <br></p> </blockquote>   
       </details>
 
-11. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
+13. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
 
     Available as [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
 
-12. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
+14. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
