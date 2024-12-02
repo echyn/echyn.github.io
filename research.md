@@ -44,8 +44,10 @@ subtitle:
    </details>
 
    *Press Coverage:* [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
-   
+
+   <!---
    Available as [NBER Working Paper #19838](http://www.nber.org/papers/w19838).
+   -->
    
 4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin). **Journal of Human Resources**. July 2022. [Publication Link](http://jhr.uwpress.org/content/57/4/1147.abstract?etoc).
 
@@ -65,10 +67,12 @@ subtitle:
    </details>
    
    *Press Coverage:* [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
-   
+
+   <!---
    Available as [NBER Working Paper #25753](https://www.nber.org/papers/w25753).
+   -->
    
-6. [The Long-Run Effects of School Racial Diversity on Political Identity](http://www.ericchyn.com/files/BCH_2021_AERI_The_Long-Run_Effects_of_School_Racial_Diversity.pdf) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. September 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&).
+7. [The Long-Run Effects of School Racial Diversity on Political Identity](http://www.ericchyn.com/files/BCH_2021_AERI_The_Long-Run_Effects_of_School_Racial_Diversity.pdf) (with Stephen Billings and Kareem Haggag). **American Economic Review: Insights**. September 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336&&).
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -81,7 +85,7 @@ subtitle:
    
    Available as NBER Working Paper #27302. [Ungated Link to PDF](https://www.ericchyn.com/files/BCH_School_Racial_Diversity_Political_Identity_AERI_Final_with_Stars.pdf).
    
-7. [Pay Me Later: Savings Constraints and the Demand for Deferred Payments](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657). 
+8. [Pay Me Later: Savings Constraints and the Demand for Deferred Payments](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin). **American Economic Review**. July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657). 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -94,9 +98,9 @@ subtitle:
    
    Available as [NBER Working Paper #28611](http://www.nber.org/papers/w28611).
       
-8. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
+9. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
 
-9. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
+10. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
 
       <details><summary> Abstract (+) </summary>
       <blockquote>
@@ -105,11 +109,11 @@ subtitle:
       <br></p> </blockquote>   
       </details>
 
-10. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
+11. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag). **Review of Economics and Statistics**. November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of).
 
     Available as [NBER Working Paper #26515](https://www.nber.org/papers/w26515).
 
-11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
+12. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart). **American Economic Journal: Applied Economics**. July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079&&from=f).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper studies the impact of the Great Migration on children. We use the complete count 1940 Census to estimate selection-corrected place effects on education for children of Black migrants. On average, Black children gained 0.8 years of schooling (12 percent) by moving from the South to North. Many counties that had the strongest positive impacts on children during the 1940s offer relatively poor opportunities for Black youth today. Opportunities for Black children were greater in places with more schooling investment, stronger labor market opportunities for Black adults, more social capital, and less crime.<br></p> </blockquote>   
