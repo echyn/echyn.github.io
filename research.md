@@ -133,7 +133,7 @@ subtitle:
       <blockquote> <p align="justify"> This paper quantifies the relative importance of place- and family-based determinants of early-life health. Using birth records for three decades from California, we leverage mothers' moves across areas to separately identify the influences of location and family on infant birth weight. We find that location explains 16 percent of geographic variation in birth weight, with the remaining 84 percent attributable to family-specific factors. To explore mechanisms, we conduct a descriptive analysis and find that pollution measures have the strongest correlation with causal estimates of place effects. Overall, the magnitudes of our results are consistent with the idea that previously documented impacts of place on long-run outcomes operate primarily through post-birth channels rather than through in-utero development.<br></p> </blockquote>   
       </details>
       
-14. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie) (Commissioned by the **Journal of Economic Literature**)
+14. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie) (Forthcoming at the **Journal of Economic Literature**)
       
 15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler). (Conditionally Accepted at the **Quarterly Journal of Economics**).
 
@@ -149,7 +149,7 @@ subtitle:
 
 19. Does Gifted Education Work? (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
 
-20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #30563.
+20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). (Revise and Resubmit at American Economic Journal: Applied Economics).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes for White residents.<br></p> </blockquote>   
