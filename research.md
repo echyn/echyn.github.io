@@ -7,7 +7,7 @@ subtitle:
 <!-- ## Research -->
 <!-- ---- -->
 
-**Academic Journal Publications (Click to View PDFs)**
+**Academic Journal Publications (Click Title to View PDFs)**
 
 1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). **American Economic Review**. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
 
@@ -104,7 +104,7 @@ subtitle:
       
 11. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz). **Journal of Economic Perspectives**. November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197).
 
-12. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). NBER Working Paper #25419. **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
+12. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett). **Journal of Political Economy**. July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856).
 
       <details><summary> Abstract (+) </summary>
       <blockquote>
