@@ -147,7 +147,7 @@ subtitle:
 
 18. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
 
-19. Does Gifted Education Work? (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
+19. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
 
 20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). (Revise and Resubmit at American Economic Journal: Applied Economics).
 
