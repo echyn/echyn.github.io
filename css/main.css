@@ -627,16 +627,17 @@ td.gutter {
   padding-top: 3px;
 }
 
-/* --- Social media sharing section --- */
-
-#social-share-section {
-  margin-bottom: 30px;
-}
-
 .journal-name {
   font-weight: bold;
   font-style: italic;
   color: red; /* Deep blue - change as needed */
   font-size: 1.05em;
 }
+
+/* --- Social media sharing section --- */
+
+#social-share-section {
+  margin-bottom: 30px;
+}
+
 
