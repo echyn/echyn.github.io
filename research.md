@@ -9,8 +9,8 @@ subtitle:
 
 **Academic Journal Publications (Click Title to View PDFs)**
 
-1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). <span style="font-weight:bold; font-style:italic; color:#003366; font-size:1.05em;">American Economic Review</span>
-. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
+1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). <span style="font-weight:bold; font-style:italic; color:#003366; font-size:1.05em;">American Economic Review</span>. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352).
+
 
    <details><summary> Abstract (+) </summary>
    
