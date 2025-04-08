@@ -632,3 +632,11 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+.journal-name {
+  font-weight: bold;
+  font-style: italic;
+  color: #003366; /* Deep blue - change as needed */
+  font-size: 1.05em;
+}
+
