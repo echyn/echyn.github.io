@@ -141,27 +141,27 @@ subtitle:
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> To study the effects of neighborhood and place-based interventions, this paper incorporates neighborhood effects into a general equilibrium (GE) heterogeneous-agent overlapping-generations model with endogenous location choice and child skill development. Importantly, housing costs as well as neighborhood effects are endogenously determined in equilibrium. Having calibrated the model using U.S. data, we use simulations to show that predictions from the model match reduced form evidence from experimental and quasi-experimental studies of housing mobility and urban development programs. After this validation exercise, we study the long-run and large-scale impacts of vouchers and place-based subsidies. Both policies result in welfare gains by reducing inequality and generating improvements in average skills and productivity, all of which offset higher levels of taxes and other GE effects. We find that a voucher program generates larger welfare gains relative to place-based polices. Even though the voucher program leads to higher long-run welfare gains, our analysis of transition dynamics suggests there may be more political support for place-based policies.<br></p> </blockquote>   
-      </details>
+      </details> 
 
-17. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart).
+17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
 
-18. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition. 
-
-19. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano). (Revise and Resubmit at the **Journal of Political Economy**).
-
-20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). (Conditionally Accepted at **American Economic Journal: Applied Economics**).
+18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart). (Conditionally Accepted at **American Economic Journal: Applied Economics**).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> This paper provides new evidence on the causal impacts of city-wide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes for White residents.<br></p> </blockquote>   
       </details>
       
-21. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn). NBER Working Paper #31542.
+19. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn). NBER Working Paper #31542.
     
-22. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #32314. (Revise and Resubmit at the **American Economic Review**).
+20. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart). NBER Working Paper #32314. (Revise and Resubmit at the **American Economic Review**).
 
     <details><summary> Abstract (+) </summary>
       <blockquote> <p align="justify"> How do majority groups respond to a narrowing of inequality in racially polarized environments? We study this question by examining the effects of the Freedmen’s Bureau, an agency created after the U.S. Civil War to provide aid to former slaves and launch institutional reform in the South. We use new historical records and an event study approach to estimate impacts of the Bureau on political economy in the South. In the decade immediately after the war, counties with Bureau field offices had reduced vote shares for Democrats, the major political party that previously championed slavery and opposed Black civil rights during Reconstruction. In the longer-run, we find evidence of backlash in the form of higher Democratic vote shares and increases in several forms of racial violence, including lynchings and attacks against Black schools. This backlash extends through the twentieth century, when we find that counties that once had a Bureau field office have higher rates of second-wave and third-wave Ku Klux Klan activity and lower rates of intergenerational economic mobility. Overall, our results suggest that the initial impacts of the Freedmen’s Bureau stimulated countervailing responses by White majorities who sought to offset social progress of Black Americans.<br></p> </blockquote>   
       </details>
+
+21. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart).
+
+22. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition.
 
 **Other Academic Publications**
 
