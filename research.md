@@ -25,8 +25,8 @@ subtitle:
       <li>2015 Parker Prize by the Department of Economics at University of Michigan </li>
    </ul>
    </details>   
-  
-  <p style="font-size: 0.85em; color: #666;">
+   
+   <p style="font-size: 0.85em; color: #666;">
   Press Coverage: 
   <a href="http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html">New York Times</a>, 
   <a href="http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html">Marginal Revolution</a>, 
@@ -39,7 +39,7 @@ subtitle:
   </p>
 
    
-   Previous Version: [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
+    Previous Version: [2016 Working Paper Draft (Longer)](http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf)
 
 2. [Housing Voucher Take-Up and Labor Market Impacts](http://www.ericchyn.com/files/CHK_2018_JPAM_Housing_Voucher_Take-Up_and_Labor_Market_Impacts.pdf) (with Josh Hyman and Max Kapustin). **Journal of Policy Analysis and Management**. Winter 2019. [Publication Link](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104).
 
