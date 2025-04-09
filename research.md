@@ -9,12 +9,18 @@ subtitle:
 
 **Academic Journal Publications (Click Title to View PDFs)**
 
-1. [Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children](http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf). **American Economic Review**. October 2018. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20161352)
+<ol>
+
+<li>
+<a href="http://www.ericchyn.com/files/Chyn_2018_AER_Moved_to_Opportunity.pdf">
+Moved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children</a>.
+<strong>American Economic Review</strong>. October 2018. 
+<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20161352">Publication Link</a>.
 
 <details><summary>Abstract (+)</summary>
 <blockquote>
 <p align="justify">
-This paper provides new evidence on the effects of moving out of disadvantaged neighborhoods on the long-run outcomes of children. I study public housing demolitions in Chicago, which forced low-income households to relocate to less disadvantaged neighborhoods using housing vouchers. Specifically, I compare young adult outcomes of displaced children to their peers who lived in nearby public housing that was not demolished. Displaced children are more likely to be employed and earn more in young adulthood. I also find that displaced children have fewer violent crime arrests. Children displaced at young ages have lower high school dropout rates.
+This paper provides new evidence on the effects of moving out of disadvantaged neighborhoods on the long-run outcomes of children...
 </p>
 </blockquote>
 </details>
@@ -22,7 +28,7 @@ This paper provides new evidence on the effects of moving out of disadvantaged n
 <details><summary>Awards (+)</summary>
 <ul>
   <li>2017 Dorothy S. Thomas Award by the Population Association of America</li>
-  <li>2017 Dissertation Prize by the Human Capital and Economic Opportunity (HCEO) Global Working Group</li>
+  <li>2017 Dissertation Prize by the HCEO Global Working Group</li>
   <li>2015 Parker Prize by the Department of Economics at University of Michigan</li>
 </ul>
 </details>
@@ -38,7 +44,13 @@ This paper provides new evidence on the effects of moving out of disadvantaged n
 <a href="https://www.aeaweb.org/research/public-housing-demolition-forced-relocation-impact-employment-earnings">AEA Research Highlights</a>
 </p>
 
-<small>Previous Version: <a href="http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf">2016 Working Paper Draft (Longer)</a></small>
+<small>Previous Version: 
+<a href="http://www.ericchyn.com/files/Chyn_Moved_to_Opportunity.pdf">2016 Working Paper Draft (Longer)</a></small>
+</li>
+
+<!-- Add more <li> items for your next publications -->
+
+</ol>
 
 
 3. [Housing Voucher Take-Up and Labor Market Impacts](http://www.ericchyn.com/files/CHK_2018_JPAM_Housing_Voucher_Take-Up_and_Labor_Market_Impacts.pdf) (with Josh Hyman and Max Kapustin). **Journal of Policy Analysis and Management**. Winter 2019. [Publication Link](https://onlinelibrary.wiley.com/doi/10.1002/pam.22104).
