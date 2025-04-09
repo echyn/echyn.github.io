@@ -26,8 +26,8 @@ subtitle:
    </ul>
    </details>   
   
-  <p class="press-coverage">
-  <strong>Press Coverage:</strong> 
+  <p style="font-size: 0.85em; color: #666;">
+  Press Coverage: 
   <a href="http://www.nytimes.com/2016/03/27/upshot/growing-up-in-a-bad-neighborhood-does-more-harm-than-we-thought.html">New York Times</a>, 
   <a href="http://marginalrevolution.com/marginalrevolution/2016/03/americas-poor-move-around-enough.html">Marginal Revolution</a>, 
   <a href="http://www.citylab.com/housing/2016/03/what-demolitions-of-chicagos-projects-in-1990-reveal-about-housing-vouchers/475809/">The Atlantic: Citylab</a>, 
