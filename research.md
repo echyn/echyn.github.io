@@ -44,8 +44,44 @@ subtitle:
 
 10. [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](https://www.nber.org/papers/w26515) (with Kareem Haggag)  
    ***Review of Economics and Statistics***, November 2023. [Publication Link](https://direct.mit.edu/rest/article-abstract/105/6/1596/111514/Moved-to-Vote-The-Long-Run-Effects-of)  
-   [NBER Working Paper #26515](https://www.nber.org/papers/w26515)
 
 11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart)  
    ***American Economic Journal: Applied Economics***, July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079)
 
+**Selected Work in Progress**
+
+12. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+   _Revise and Resubmit at_ ***Journal of Human Resources***
+
+13. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav)  
+   _Conditionally Accepted at_ ***American Economic Journal: Economic Policy***
+
+14. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie)  
+   _Forthcoming at_ ***Journal of Economic Literature***
+
+15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)  
+   _Forthcoming at_ ***Quarterly Journal of Economics***
+
+16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
+   _Conditionally Accepted at_ ***American Economic Review***
+
+17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
+   _Revise and Resubmit at_ ***Journal of Political Economy***
+
+18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
+   _Conditionally Accepted at_ ***American Economic Journal: Applied Economics***
+
+19. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
+   NBER Working Paper #31542
+
+20. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
+   _Revise and Resubmit at_ ***American Economic Review***
+
+21. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart)
+
+22. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition
+
+**Other Academic Publications**
+
+23. The Demographic Effects of Dodging the Vietnam Draft. (with Martha Bailey).
+    ***American Economic Association: Papers and Proceedings***. May 2020.
