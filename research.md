@@ -20,23 +20,24 @@ subtitle:
    ***American Economic Journal: Economic Policy***, February 2020. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/pol.20160555)  
    _Press Coverage_: [Harvard Business Review](https://hbr.org/2014/02/study-green-advertising-helped-bp-recover-from-the-deepwater-horizon-spill), [AEA Research Highlights](https://www.aeaweb.org/research/bp-oil-spill-advertising)
 
-4. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin)  
-   ***Journal of Human Resources***, July 2022. [Publication Link](http://jhr.uwpress.org/content/57/4/1147.abstract?etoc)
-
-5. [The Returns to Early-life Interventions for Very Low Birth Weight Children](http://www.ericchyn.com/files/CGH_2021_JHE_The_Returns_to_Early-life_Interventions.pdf) (with Samantha Gold and Justine Hastings)  
+4. [The Returns to Early-life Interventions for Very Low Birth Weight Children](http://www.ericchyn.com/files/CGH_2021_JHE_The_Returns_to_Early-life_Interventions.pdf) (with Samantha Gold and Justine Hastings)  
    ***Journal of Health Economics***, January 2021. [Publication Link](https://www.sciencedirect.com/science/article/pii/S0167629620310468)  
    _Press Coverage_: [Brookings: Hutchins Roundup](https://www.brookings.edu/blog/up-front/2019/04/18/hutchins-roundup-early-childhood-health-investments-knowledge-diffusion-and-more/)
+
+5. [Pay Me Later: Savings Constraints and the Demand for Deferred Payments](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin)  
+   ***American Economic Review***, July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657)  
+   _Press Coverage_: [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
 
 6. [The Long-Run Effects of School Racial Diversity on Political Identity](http://www.ericchyn.com/files/BCH_2021_AERI_The_Long-Run_Effects_of_School_Racial_Diversity.pdf) (with Stephen Billings and Kareem Haggag)  
    ***American Economic Review: Insights***, September 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aeri.20200336)  
    _Press Coverage_: [Washington Post](https://www.washingtonpost.com/business/2020/06/12/white-students-exposed-more-minority-peers-are-less-likely-register-republicans/), [New York Times](https://www.nytimes.com/2021/09/01/opinion/us-multiracial-democracy.html), [AEA Research Highlights](https://www.aeaweb.org/research/school-diversity-political-affiliation)
 
-7. [Pay Me Later: Savings Constraints and the Demand for Deferred Payments](https://www.ericchyn.com/files/BCK_2021_AER_Pay_Me_Later_Savings_Constraints.pdf) (with Lasse Brune and Jason Kerwin)  
-   ***American Economic Review***, July 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20191657)  
-   _Press Coverage_: [AEA Research Highlights](https://www.aeaweb.org/research/deferred-payment-malawi-savings), [VoxDev](https://voxdev.org/topic/finance/overcoming-barriers-savings-through-deferred-wage-payments-evidence-malawi)
-
-8. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz)  
+7. [Neighborhoods Matter: Assessing the Evidence for Place Effects](https://www.nber.org/papers/w28953) (with Lawrence Katz)  
    ***Journal of Economic Perspectives***, November 2021. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jep.35.4.197)
+
+8. [Peers and Motivation at Work: Evidence from a Firm Experiment in Malawi](http://www.ericchyn.com/files/Brune_Chyn_and_Kerwin_PeerEffects_Latest.pdf) (with Lasse Brune and Jason Kerwin)  
+   ***Journal of Human Resources***, July 2022. [Publication Link](http://jhr.uwpress.org/content/57/4/1147.abstract?etoc)
+
 
 9. [The Causal Impact of Removing Children from Abusive and Neglectful Homes](https://www.ericchyn.com/files/BCHM_2021_Removals.pdf) (with Anthony Bald, Justine Hastings and Margarita Machelett)  
    ***Journal of Political Economy***, July 2022. [Publication Link](https://www.journals.uchicago.edu/doi/10.1086/719856)
