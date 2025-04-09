@@ -634,5 +634,12 @@ td.gutter {
   margin-bottom: 30px;
 }
 
+.press-coverage {
+  font-size: 0.85em;
+  color: #666;
+  font-style: italic;
+  margin-top: 10px;
+}
+
 
 
