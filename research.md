@@ -66,7 +66,7 @@ subtitle:
    _Conditionally Accepted at_ ***American Economic Review***
 
 17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
-   _Revise and Resubmit at_ ***Journal of Political Economy***
+   _Accepted at_ ***Journal of Political Economy***
 
 18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
    _Conditionally Accepted at_ ***American Economic Journal: Applied Economics***
@@ -80,9 +80,11 @@ subtitle:
 21. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart)
 
 22. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition
+    
+23. Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era (with Kareem Haggag and Christian Maruthiah)
 
 **Other Academic Publications**
 
-23. The Demographic Effects of Dodging the Vietnam Draft (with Martha Bailey)  
+24. The Demographic Effects of Dodging the Vietnam Draft (with Martha Bailey)  
    ***American Economic Association: Papers and Proceedings***, May 2020.
 
