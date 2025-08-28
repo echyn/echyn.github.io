@@ -48,27 +48,33 @@ subtitle:
 11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart)  
    ***American Economic Journal: Applied Economics***, July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079)
 
+12. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie)  
+   ***Journal of Economic Literature***, June 2025. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jel.20241719)
+
+13. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)  
+   ***Quarterly Journal of Economics***, August 2025. [Publication Link](https://academic.oup.com/qje/article/140/3/2213/8011558)
+
 **Selected Work in Progress**
 
-12. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+14. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
    _Revise and Resubmit at_ ***Journal of Human Resources***
 
-13. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav)  
+15. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav)  
    _Conditionally Accepted at_ ***American Economic Journal: Economic Policy***
 
-14. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie)  
+16. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie)  
    _Forthcoming at_ ***Journal of Economic Literature***
 
-15. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)  
+17. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)  
    _Forthcoming at_ ***Quarterly Journal of Economics***
 
-16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
-   _Conditionally Accepted at_ ***American Economic Review***
+18. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
+   _Accepted at_ ***American Economic Review***
 
-17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
+19. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
    _Accepted at_ ***Journal of Political Economy***
 
-18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
+20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
    _Conditionally Accepted at_ ***American Economic Journal: Applied Economics***
 
 19. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
