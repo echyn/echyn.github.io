@@ -62,19 +62,13 @@ subtitle:
 15. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav)  
    _Conditionally Accepted at_ ***American Economic Journal: Economic Policy***
 
-16. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie)  
-   _Forthcoming at_ ***Journal of Economic Literature***
-
-17. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)  
-   _Forthcoming at_ ***Quarterly Journal of Economics***
-
-18. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
+16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
    _Accepted at_ ***American Economic Review***
 
-19. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
+17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
    _Accepted at_ ***Journal of Political Economy***
 
-20. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
+18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
    _Conditionally Accepted at_ ***American Economic Journal: Applied Economics***
 
 19. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
@@ -88,6 +82,8 @@ subtitle:
 22. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition
     
 23. Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era (with Kareem Haggag and Christian Maruthiah)
+    
+24. Who Chooses and Who Benefits? The Limits of Decentralized School Choice (with Jesse Bruhn, Chris Campos and Antonia Vazquez)
 
 **Other Academic Publications**
 
