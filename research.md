@@ -48,10 +48,10 @@ subtitle:
 11. The Great Migration and Educational Opportunity (with Cavit Baran and Bryan Stuart)  
    ***American Economic Journal: Applied Economics***, July 2024. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20220079)
 
-12. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_Examiner_Designs_NBER.pdf) (with Brigham Frandsen and Emily Leslie)  
+12. [Examiner and Judge Designs in Economics: A Practitioner's Guide](http://www.ericchyn.com/files/CFL_2025_Examiner_Designs.pdf) (with Brigham Frandsen and Emily Leslie)  
    ***Journal of Economic Literature***, June 2025. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/jel.20241719)
 
-13. The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux (with Robert Collinson and Danielle Sandler)  
+13. [The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux](http://www.ericchyn.com/files/CCS_2025_QJE_Gautreaux.pdf) (with Robert Collinson and Danielle Sandler)  
    ***Quarterly Journal of Economics***, August 2025. [Publication Link](https://academic.oup.com/qje/article/140/3/2213/8011558)
 
 **Selected Work in Progress**
