@@ -54,13 +54,13 @@ subtitle:
 13. [The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux](http://www.ericchyn.com/files/CCS_2025_QJE_Gautreaux.pdf) (with Robert Collinson and Danielle Sandler)  
    ***Quarterly Journal of Economics***, August 2025. [Publication Link](https://academic.oup.com/qje/article/140/3/2213/8011558)
 
+14. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav)  
+    ***American Economic Journal: Economic Policy***, November 2025. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/pol.20230011)
+
 **Selected Work in Progress**
 
-14. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+15. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
    _Revise and Resubmit at_ ***Journal of Human Resources***
-
-15. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav)  
-   _Conditionally Accepted at_ ***American Economic Journal: Economic Policy***
 
 16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
    _Accepted at_ ***American Economic Review***
