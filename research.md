@@ -75,7 +75,7 @@ subtitle:
    NBER Working Paper #31542
 
 20. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
-   _Revise and Resubmit at_ ***American Economic Review***
+   _Conditionally Accepted at_ ***American Economic Review***
 
 21. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart)
 
@@ -83,7 +83,7 @@ subtitle:
     
 23. Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era (with Kareem Haggag and Christian Maruthiah)
     
-24. Who Chooses and Who Benefits? The Limits of Decentralized School Choice (with Jesse Bruhn, Chris Campos and Antonia Vazquez)
+24. Who Chooses and Who Benefits? The Design of Public School Choice Systems (with Jesse Bruhn, Chris Campos and Antonia Vazquez)
 
 **Other Academic Publications**
 
