@@ -56,20 +56,20 @@ subtitle:
 
 14. Family- and Place-based Determinants of Early-Life Health (with Na'ama Shenhav)  
     ***American Economic Journal: Economic Policy***, November 2025. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/pol.20230011)
+    
+15. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
+    ***American Economic Review***, December 2025. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20231679)
 
 **Selected Work in Progress**
 
-15. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+16. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
    _Revise and Resubmit at_ ***Journal of Human Resources***
-
-16. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
-   _Accepted at_ ***American Economic Review***
 
 17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
    _Accepted at_ ***Journal of Political Economy***
 
 18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
-   _Conditionally Accepted at_ ***American Economic Journal: Applied Economics***
+   _Forthcoming at_ ***American Economic Journal: Applied Economics***
 
 19. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
    NBER Working Paper #31542
