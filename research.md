@@ -69,7 +69,7 @@ subtitle:
    _Forthcoming at_ ***American Economic Journal: Applied Economics***
 
 18. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
-   NBER Working Paper #31542 _Revise and Resubmit at_ ***American Economic Review***
+   NBER Working Paper #31542. _Revise and Resubmit at_ ***American Economic Review***
 
 19. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
    _Conditionally Accepted at_ ***American Economic Review***
