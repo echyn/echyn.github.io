@@ -62,28 +62,28 @@ subtitle:
 
 **Selected Work in Progress**
 
-16. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
-   _Revise and Resubmit at_ ***Journal of Human Resources***
-
-17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
+16. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
    _Accepted at_ ***Journal of Political Economy***
 
-18. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
+17. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
    _Forthcoming at_ ***American Economic Journal: Applied Economics***
 
-19. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
+18. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
    NBER Working Paper #31542 _Revise and Resubmit at_ ***American Economic Review***
 
-20. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
+19. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
    _Conditionally Accepted at_ ***American Economic Review***
 
-21. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart)
+20. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart)
 
-22. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition
+21. The Impact of Disadvantaged Peers: Evidence from Resettlement after Public Housing Demolition
+  
+22. Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era (with Kareem Haggag and Christian Maruthiah)
     
-23. Ideology in Government: Evidence from the Office of Indian Affairs and the Assimilation Era (with Kareem Haggag and Christian Maruthiah)
+23. Who Chooses and Who Benefits? The Design of Public School Choice Systems (with Jesse Bruhn, Chris Campos and Antonia Vazquez)
     
-24. Who Chooses and Who Benefits? The Design of Public School Choice Systems (with Jesse Bruhn, Chris Campos and Antonia Vazquez)
+24. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+   _Revise and Resubmit at_ ***Journal of Human Resources***
 
 **Other Academic Publications**
 
