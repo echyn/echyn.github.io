@@ -60,13 +60,13 @@ subtitle:
 15. [Equilibrium Effects of Neighborhood Interventions](http://www.ericchyn.com/files/CD_Equilibrium_Analysis_Neighborhood_Interventions_20210912.pdf) (with Diego Daruich)  
     ***American Economic Review***, December 2025. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20231679)
 
+16. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
+   ***American Economic Journal: Applied Economics***, April 2026. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20240271)
+
 **Selected Work in Progress**
 
-16. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
+17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
    _Accepted at_ ***Journal of Political Economy***
-
-17. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
-   _Forthcoming at_ ***American Economic Journal: Applied Economics***
 
 18. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
    NBER Working Paper #31542. _Revise and Resubmit at_ ***American Economic Review***
@@ -82,7 +82,11 @@ subtitle:
     
 23. Who Chooses and Who Benefits? The Design of Public School Choice Systems (with Jesse Bruhn, Chris Campos and Antonia Vazquez)
     
-24. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+25. The Persistence of Power: How Family Origins Shape Political Representation and Policy (with Katherine Cohen, Kareem Haggag, and Bryan Stuart)
+    
+27. When Lottery Losers Still Win: Magnet Schools with Close Substitutes (with Jesse Bruhn, Chris Campos, and Ishira Shrivatsa)  
+    
+28. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
    _Revise and Resubmit at_ ***Journal of Human Resources***
 
 **Other Academic Publications**
