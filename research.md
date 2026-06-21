@@ -84,13 +84,15 @@ subtitle:
     
 25. The Persistence of Power: How Family Origins Shape Political Representation and Policy (with Katherine Cohen, Kareem Haggag, and Bryan Stuart)
     
-27. When Lottery Losers Still Win: Magnet Schools with Close Substitutes (with Jesse Bruhn, Chris Campos, and Ishira Shrivatsa)  
+27. When Lottery Losers Still Win: Magnet Schools with Close Substitutes (with Jesse Bruhn, Chris Campos, and Ishira Shrivatsa)
+
+28. Creating Opportunity in the Poorest Neighborhoods: Experimental Evidence from a Place-Based Employment Program (with Robert Collinson)
     
-28. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+29. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
    _Revise and Resubmit at_ ***Journal of Human Resources***
 
 **Other Academic Publications**
 
-25. The Demographic Effects of Dodging the Vietnam Draft (with Martha Bailey)  
+30. The Demographic Effects of Dodging the Vietnam Draft (with Martha Bailey)  
    ***American Economic Association: Papers and Proceedings***, May 2020.
 
