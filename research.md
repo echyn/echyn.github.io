@@ -62,17 +62,17 @@ subtitle:
 
 16. [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](http://www.ericchyn.com/files/CHS_Segregation_Mobility_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
    ***American Economic Journal: Applied Economics***, April 2026. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/app.20240271)
+    
+17. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_AER.pdf) (with Kareem Haggag and Bryan Stuart)  
+  ***American Economic Review***, November 2026. [Publication Link](https://www.aeaweb.org/articles?id=10.1257/aer.20241561)
 
 **Selected Work in Progress**
 
-17. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
-   _Accepted at_ ***Journal of Political Economy***
+18. [Does Gifted Education Work?](http://www.ericchyn.com/files/CCG_2024_NBER_Gifted_Education.pdf) (with David Card and Laura Giuliano)  
+   _Forthcoming at_ ***Journal of Political Economy***
 
-18. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
+19. Who Benefits from Remote Schooling? Self-selection and Match Effects (with Chris Campos and Jesse Bruhn)  
    NBER Working Paper #31542. _Revise and Resubmit at_ ***American Economic Review***
-
-19. [Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau](http://www.ericchyn.com/files/CHS_Freedmen_NBER.pdf) (with Kareem Haggag and Bryan Stuart)  
-   _Conditionally Accepted at_ ***American Economic Review***
 
 20. The Effects of Urban Renewal Programs on Gentrification and Inequality (with Milena Almagro and Bryan Stuart)
 
@@ -86,9 +86,11 @@ subtitle:
     
 25. When Lottery Losers Still Win: Magnet Schools with Close Substitutes (with Jesse Bruhn, Chris Campos, and Ishira Shrivatsa)
 
-26. Creating Opportunity in the Poorest Neighborhoods: Experimental Evidence from a Place-Based Employment Program (with Robert Collinson)
+26. Creating Opportunity in the Poorest Neighborhoods: Experimental Evidence from a Place-Based Employment Program (with Robert Collinson and Danielle Sandler)
+
+27. The Effects of Teacher-Facing Generative AI: National K-12 Evidence (with Chris Campos, Ryan Lee, and John Singleton)
     
-27. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
+28. The Demographic Legacy of the Vietnam War: Evidence from the 1969 Draft Lottery (with Martha Bailey)  
    _Revise and Resubmit at_ ***Journal of Human Resources***
 
 **Other Academic Publications**
