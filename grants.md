@@ -43,7 +43,7 @@ subtitle:
    - MITRE Research Grant, 2015, $5,000
    - Population Studies Center, Small Grant Award, 2015, $5,000
    - Rackham Graduate Student Research Award, 2014, $3,000
-   - Riecker Graduate Stduent Research Grant, 2014, $1,500
+   - Riecker Graduate Student Research Grant, 2014, $1,500
    - Dickstein Research Award, 2014, $5,000
    - MITRE Research Award, 2014, $5,000
 
